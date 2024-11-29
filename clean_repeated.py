@@ -40,7 +40,12 @@ def clean(csv: pd.DataFrame, column_name: str):
     # sort the cleaned csv by the column name
     cleaned_csv.sort_values(by=[column_name], inplace=True)
 
-    cleaned_csv.to_csv("cleaned_" + sys.argv[1], index=False)
+    cleaned_csv.to_csv(
+        f"cleaned_{
+        # remove the parent directory and the extension of the file to create the new file name
+        sys.argv[1].split("/")[-1].split(".")[0]}.csv",
+        index=False,
+    )
 
 
 if __name__ == "__main__":
