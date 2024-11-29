@@ -50,7 +50,10 @@ def get_ids(
 
                 break
 
-    cleaned_csv.to_csv("ided_" + sys.argv[2], index=False)
+    # cleaned_csv.to_csv("ided_" + sys.argv[2], index=False)
+    cleaned_csv.to_csv(
+        f"ided_{sys.argv[2].split('/')[-1].split('.')[0]}.csv", index=False
+    )
 
 
 if __name__ == "__main__":
