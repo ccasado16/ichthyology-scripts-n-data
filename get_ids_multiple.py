@@ -94,7 +94,10 @@ def get_ids_multiple(
         else:
             print("[!] No match found")
 
-    main_csv.to_csv(f"ided_{sys.argv[2].split('/')[-1].split('.')[0]}.csv", index=False)
+    main_csv.to_csv(
+        f"ided-{column_to_search_id}_{sys.argv[2].split('/')[-1].split('.')[0]}.csv",
+        index=False,
+    )
 
 
 if __name__ == "__main__":
