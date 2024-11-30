@@ -16,7 +16,7 @@ def main():
     parser.add_argument(
         "--column_name",
         type=str,
-        required=True,
+        # required=True,
         help="The column name to sort",
     )
 
@@ -63,7 +63,8 @@ def clean(csv: pd.DataFrame, column_name: str, characs_to_remove: list = None):
     cleaned_csv = pd.DataFrame(cleaned_items, columns=csv.columns)
 
     # sort the cleaned csv by the column name
-    cleaned_csv.sort_values(by=[column_name], inplace=True)
+    if column_name:
+        cleaned_csv.sort_values(by=[column_name], inplace=True)
 
     cleaned_csv.to_csv(
         f"cleaned_{
