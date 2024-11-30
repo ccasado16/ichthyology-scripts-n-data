@@ -52,7 +52,9 @@ def get_ids(
 
     # cleaned_csv.to_csv("ided_" + sys.argv[2], index=False)
     cleaned_csv.to_csv(
-        f"ided_{sys.argv[2].split('/')[-1].split('.')[0]}.csv", index=False
+        f"ided_{
+            sys.argv[3]
+        }_{sys.argv[2].split('/')[-1].split('.')[0]}.csv", index=False
     )
 
 
