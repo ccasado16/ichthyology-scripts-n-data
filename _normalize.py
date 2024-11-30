@@ -1,4 +1,4 @@
-def _normalize(string):
+def _normalize(string: str, additional_removes: list = None) -> str:
     word = (
         (
             string.replace("á", "a")
@@ -10,5 +10,9 @@ def _normalize(string):
         .lower()
         .strip()
     )
+
+    if additional_removes:
+        for remove in additional_removes:
+            word = word.replace(remove, "")
 
     return word
