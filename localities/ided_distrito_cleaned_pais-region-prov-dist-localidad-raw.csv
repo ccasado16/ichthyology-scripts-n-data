@@ -1,278 +1,278 @@
 pais,region,provincia,distrito,localidad,distrito_id
-peru,loreto,maynas,torres causana,(comunidad buen suceso),160110.0
+peru,loreto,maynas,torres causana,(comunidad buen suceso),160110
 peru,loreto,maynas,None,-,
-peru,loreto,loreto,tigre,28 de julio,160303.0
-peru,loreto,maynas,iquitos,None,160101.0
-peru,loreto,mariscal ramon castilla,yavari,None,160403.0
-peru,loreto,maynas,alto nanay,None,160102.0
-peru,loreto,maynas,belen,None,50902.0
-peru,loreto,loreto,nauta,None,160301.0
-peru,loreto,maynas,fernando lores,None,160103.0
-peru,loreto,maynas,las amazonas,None,160105.0
-peru,loreto,maynas,napo,None,160107.0
-peru,loreto,None,None,None,
-peru,cusco,la convencion,megantoni,None,80914.0
-peru,madre de dios,None,None,None,
-peru,loreto,maynas,punchana,None,160108.0
-peru,san martin,None,None,None,
-peru,ucayali,coronel portillo,masisea,None,250104.0
-peru,madre de dios,tahuamanu,tahuamanu,None,170303.0
-peru,None,None,None,None,
-peru,loreto,requena,puinahua,None,160506.0
-None,None,None,None,None,
-peru,loreto,maynas,None,None,
-peru,loreto,maynas,torres causana,None,160110.0
-peru,loreto,loreto,tigre,None,160303.0
-peru,loreto,loreto,parinari,None,160302.0
+peru,loreto,loreto,tigre,28 de julio,160303
+peru,loreto,maynas,iquitos,Unknown locality,160101
+peru,loreto,mariscal ramon castilla,yavari,Unknown locality,160403
+peru,loreto,maynas,alto nanay,Unknown locality,160102
+peru,loreto,maynas,belen,Unknown locality,50902
+peru,loreto,loreto,nauta,Unknown locality,160301
+peru,loreto,maynas,fernando lores,Unknown locality,160103
+peru,loreto,maynas,las amazonas,Unknown locality,160105
+peru,loreto,maynas,napo,Unknown locality,160107
+peru,loreto,None,None,Unknown locality,
+peru,cusco,la convencion,megantoni,Unknown locality,80914
+peru,madre de dios,None,None,Unknown locality,
+peru,loreto,maynas,punchana,Unknown locality,160108
+peru,san martin,None,None,Unknown locality,
+peru,ucayali,coronel portillo,masisea,Unknown locality,250104
+peru,madre de dios,tahuamanu,tahuamanu,Unknown locality,170303
+peru,None,None,None,Unknown locality,
+peru,loreto,requena,puinahua,Unknown locality,160506
+None,None,None,None,Unknown locality,
+peru,loreto,maynas,None,Unknown locality,
+peru,loreto,maynas,torres causana,Unknown locality,160110
+peru,loreto,loreto,tigre,Unknown locality,160303
+peru,loreto,loreto,parinari,Unknown locality,160302
 peru,loreto,None,None,allpahuayo,
-peru,loreto,maynas,san juan bautista,allpahuayo,50110.0
-peru,ucayali,coronel portillo,masisea,alto ucayali,250104.0
-peru,loreto,maynas,torres causana,aranda cocha,160110.0
-peru,loreto,loreto,parinari,atun cocha,160302.0
+peru,loreto,maynas,san juan bautista,allpahuayo,50110
+peru,ucayali,coronel portillo,masisea,alto ucayali,250104
+peru,loreto,maynas,torres causana,aranda cocha,160110
+peru,loreto,loreto,parinari,atun cocha,160302
 peru,loreto,None,None,base arica,
-peru,loreto,maynas,napo,base arica - repsol,160107.0
+peru,loreto,maynas,napo,base arica - repsol,160107
 peru,loreto,None,None,bufeo quebrada,
-peru,loreto,maynas,napo,campamento panguana,160107.0
-peru,loreto,maynas,torres causana,campo serio,160110.0
+peru,loreto,maynas,napo,campamento panguana,160107
+peru,loreto,maynas,torres causana,campo serio,160110
 peru,loreto,None,None,camu camu cocha,
 peru,loreto,None,None,camunidad campo serio,
-peru,loreto,requena,puinahua,canal puinahua,160506.0
-peru,loreto,maynas,belen,canta gallo,50902.0
-peru,loreto,loreto,trompeteros,caserio cuchara/rio corrientes,160304.0
+peru,loreto,requena,puinahua,canal puinahua,160506
+peru,loreto,maynas,belen,canta gallo,50902
+peru,loreto,loreto,trompeteros,caserio cuchara/rio corrientes,160304
 peru,madre de dios,None,None,caserio infierno,
 peru,madre de dios,None,None,caserio infierno rio tambopata,
-peru,loreto,loreto,trompeteros,caserio providencia,160304.0
+peru,loreto,loreto,trompeteros,caserio providencia,160304
 peru,loreto,None,None,caño,
-peru,loreto,maynas,torres causana,caño anuncho,160110.0
-peru,loreto,maynas,torres causana,caño anuncho/yanayacu pucate,160110.0
-peru,loreto,maynas,torres causana,caño garza,160110.0
-peru,loreto,maynas,san juan bautista,caño santo tomas,50110.0
+peru,loreto,maynas,torres causana,caño anuncho,160110
+peru,loreto,maynas,torres causana,caño anuncho/yanayacu pucate,160110
+peru,loreto,maynas,torres causana,caño garza,160110
+peru,loreto,maynas,san juan bautista,caño santo tomas,50110
 peru,loreto,None,None,caño ungurahui,
-peru,loreto,requena,puinahua,caño yarina,160506.0
-peru,ucayali,coronel portillo,calleria,chanajao,250101.0
+peru,loreto,requena,puinahua,caño yarina,160506
+peru,ucayali,coronel portillo,calleria,chanajao,250101
 peru,ucayali,None,None,chanajao,
-peru,ucayali,coronel portillo,calleria,chanajao (alto ucayali ),250101.0
-peru,ucayali,coronel portillo,calleria,chanajao cerca al imiria,250101.0
-peru,ucayali,coronel portillo,calleria,chanarrao,250101.0
-peru,loreto,maynas,torres causana,chorococha,160110.0
-peru,loreto,maynas,alto nanay,cocha,160102.0
+peru,ucayali,coronel portillo,calleria,chanajao (alto ucayali ),250101
+peru,ucayali,coronel portillo,calleria,chanajao cerca al imiria,250101
+peru,ucayali,coronel portillo,calleria,chanarrao,250101
+peru,loreto,maynas,torres causana,chorococha,160110
+peru,loreto,maynas,alto nanay,cocha,160102
 peru,loreto,None,None,cocha,
 peru,loreto,None,None,cocha aguajal,
-peru,loreto,maynas,napo,cocha aleman,160107.0
-peru,loreto,maynas,napo,cocha aleman-urbina,160107.0
+peru,loreto,maynas,napo,cocha aleman,160107
+peru,loreto,maynas,napo,cocha aleman-urbina,160107
 peru,loreto,None,None,cocha bagazan,
-peru,loreto,loreto,tigre,cocha desesperado,160303.0
+peru,loreto,loreto,tigre,cocha desesperado,160303
 peru,loreto,None,None,"cocha garza, bellavista",
 peru,loreto,None,None,cocha leon,
-peru,loreto,maynas,napo,cocha maquisapillo,160107.0
-peru,loreto,maynas,napo,cocha maquisapillo rio arabela,160107.0
-peru,loreto,loreto,nauta,cocha mauca,160301.0
-peru,loreto,loreto,nauta,cocha mauca (rio yanayacu-pucate),160301.0
+peru,loreto,maynas,napo,cocha maquisapillo,160107
+peru,loreto,maynas,napo,cocha maquisapillo rio arabela,160107
+peru,loreto,loreto,nauta,cocha mauca,160301
+peru,loreto,loreto,nauta,cocha mauca (rio yanayacu-pucate),160301
 peru,loreto,None,None,cocha mayouruna,
-peru,loreto,maynas,las amazonas,cocha mayouruna,160105.0
+peru,loreto,maynas,las amazonas,cocha mayouruna,160105
 peru,loreto,None,None,cocha mundo poza - santa victoria,
 peru,loreto,None,None,cocha negra(yana yacu),
-peru,loreto,maynas,napo,cocha panguana rio arabela,160107.0
-peru,loreto,mariscal ramon castilla,yavari,cocha priguisa,160403.0
+peru,loreto,maynas,napo,cocha panguana rio arabela,160107
+peru,loreto,mariscal ramon castilla,yavari,cocha priguisa,160403
 peru,loreto,None,None,cocha sahua,
 peru,loreto,None,None,cocha shinguito,
 peru,loreto,None,None,cocha siruy/san pedro /rio nanay,
-peru,loreto,maynas,iquitos,cocha tarapoto,160101.0
+peru,loreto,maynas,iquitos,cocha tarapoto,160101
 peru,loreto,None,None,cocha telebid curaray lote 67,
-peru,loreto,maynas,san juan bautista,cocha yuto,50110.0
-peru,loreto,maynas,napo,"com. nuevo defensor, orilla",160107.0
-peru,loreto,maynas,napo,comunidad,160107.0
-peru,loreto,loreto,tigre,comunidad 28 de julio,160303.0
-peru,loreto,requena,jenaro herrera,comunidad bagazan,160510.0
-peru,loreto,maynas,torres causana,comunidad buen suceso,160110.0
+peru,loreto,maynas,san juan bautista,cocha yuto,50110
+peru,loreto,maynas,napo,"com. nuevo defensor, orilla",160107
+peru,loreto,maynas,napo,comunidad,160107
+peru,loreto,loreto,tigre,comunidad 28 de julio,160303
+peru,loreto,requena,jenaro herrera,comunidad bagazan,160510
+peru,loreto,maynas,torres causana,comunidad buen suceso,160110
 peru,loreto,None,None,comunidad buen suceso - chorococha,
 peru,loreto,None,None,comunidad buen suceso - cocha arahuana,
 peru,loreto,None,None,comunidad buen suceso - panda cocha,
 peru,loreto,None,None,comunidad buen suceso - tipishca tunchi,
-peru,loreto,maynas,torres causana,comunidad campo serio,160110.0
-peru,loreto,maynas,torres causana,"comunidad campo serio, rio aushi, napo",160110.0
-peru,loreto,loreto,nauta,comunidad carocurahayte,160301.0
+peru,loreto,maynas,torres causana,comunidad campo serio,160110
+peru,loreto,maynas,torres causana,"comunidad campo serio, rio aushi, napo",160110
+peru,loreto,loreto,nauta,comunidad carocurahayte,160301
 peru,loreto,None,None,comunidad concordia,
-peru,loreto,maynas,las amazonas,comunidad de muyuy,160105.0
-peru,loreto,maynas,las amazonas,comunidad de oroza,160105.0
-peru,loreto,maynas,belen,comunidad de padre isla,50902.0
-peru,loreto,maynas,napo,comunidad de urvina,160107.0
-peru,loreto,requena,puinahua,comunidad de yanayacu,160506.0
-peru,loreto,maynas,napo,"comunidad defensor, mundo poza",160107.0
-peru,loreto,maynas,fernando lores,comunidad del aguajal,160103.0
-peru,loreto,maynas,mazan,comunidad el salvador,160106.0
+peru,loreto,maynas,las amazonas,comunidad de muyuy,160105
+peru,loreto,maynas,las amazonas,comunidad de oroza,160105
+peru,loreto,maynas,belen,comunidad de padre isla,50902
+peru,loreto,maynas,napo,comunidad de urvina,160107
+peru,loreto,requena,puinahua,comunidad de yanayacu,160506
+peru,loreto,maynas,napo,"comunidad defensor, mundo poza",160107
+peru,loreto,maynas,fernando lores,comunidad del aguajal,160103
+peru,loreto,maynas,mazan,comunidad el salvador,160106
 peru,loreto,None,None,comunidad flor de coco,
-peru,loreto,maynas,napo,comunidad flor de coco,160107.0
+peru,loreto,maynas,napo,comunidad flor de coco,160107
 peru,loreto,None,None,comunidad flor de coco - cocha maquisapa,
 peru,loreto,None,None,comunidad flor de coco - cocha negra,
 peru,loreto,None,None,comunidad german,
-peru,loreto,maynas,torres causana,comunidad german,160110.0
+peru,loreto,maynas,torres causana,comunidad german,160110
 peru,loreto,None,None,comunidad german (rio yanayacu),
-peru,loreto,maynas,mazan,comunidad mazan,160106.0
-peru,madre de dios,tambopata,inambari,comunidad nueva union,170102.0
-peru,cusco,la convencion,megantoni,comunidad nueva vida,80914.0
-peru,loreto,maynas,napo,comunidad nuevo defensor,160107.0
+peru,loreto,maynas,mazan,comunidad mazan,160106
+peru,madre de dios,tambopata,inambari,comunidad nueva union,170102
+peru,cusco,la convencion,megantoni,comunidad nueva vida,80914
+peru,loreto,maynas,napo,comunidad nuevo defensor,160107
 peru,loreto,None,None,comunidad nuevo defensor - cocha mundo poza,
 peru,loreto,None,None,comunidad nuevo defensor - quebrada gravisho,
-peru,loreto,mariscal ramon castilla,yavari,comunidad santa rosa,160403.0
-peru,loreto,maynas,indiana,comunidad santa teresa,160104.0
-peru,loreto,maynas,napo,comunidad santa victoria,160107.0
-peru,loreto,maynas,napo,comunidad shapajal,160107.0
+peru,loreto,mariscal ramon castilla,yavari,comunidad santa rosa,160403
+peru,loreto,maynas,indiana,comunidad santa teresa,160104
+peru,loreto,maynas,napo,comunidad santa victoria,160107
+peru,loreto,maynas,napo,comunidad shapajal,160107
 peru,loreto,None,None,comunidad shapajal - lamistococha,
 peru,loreto,None,None,comunidad urbina,
-peru,loreto,maynas,napo,comunidad urbina,160107.0
+peru,loreto,maynas,napo,comunidad urbina,160107
 peru,loreto,None,None,comunidad urbina - cocha aleman,
-peru,loreto,maynas,san juan bautista,comunidad yuto,50110.0
-peru,loreto,loreto,tigre,despensa,160303.0
+peru,loreto,maynas,san juan bautista,comunidad yuto,50110
+peru,loreto,loreto,tigre,despensa,160303
 peru,loreto,None,None,flor de coco/cocha maquisapillo,
-peru,loreto,maynas,napo,flor de coco/cocha maquisapillo,160107.0
+peru,loreto,maynas,napo,flor de coco/cocha maquisapillo,160107
 peru,loreto,None,None,frente dorado/quebrada 3 norte,
 peru,loreto,None,None,frente paiche,
 peru,loreto,None,None,frente piraña,
 peru,loreto,None,None,frente piraña/quebrada gergon,
 peru,loreto,None,None,genaro herrera,
 peru,loreto,None,None,hi-3,
-peru,loreto,loreto,nauta,huarmi isla,160301.0
-peru,loreto,maynas,napo,isal santa victoria,160107.0
-peru,loreto,maynas,napo,isla 4 bocas,160107.0
-peru,loreto,maynas,napo,isla cuatro bocas,160107.0
-peru,loreto,maynas,belen,isla iquitos,50902.0
-peru,loreto,maynas,belen,isla iquitos /rio amazonas,50902.0
-peru,loreto,maynas,belen,isla iquitos cerca,50902.0
-peru,ucayali,coronel portillo,masisea,lago imiria,250104.0
-peru,ucayali,coronel portillo,masisea,lago imiria (alto ucayali,250104.0
-peru,loreto,alto amazonas,lagunas,lago lagunas,140107.0
+peru,loreto,loreto,nauta,huarmi isla,160301
+peru,loreto,maynas,napo,isal santa victoria,160107
+peru,loreto,maynas,napo,isla 4 bocas,160107
+peru,loreto,maynas,napo,isla cuatro bocas,160107
+peru,loreto,maynas,belen,isla iquitos,50902
+peru,loreto,maynas,belen,isla iquitos /rio amazonas,50902
+peru,loreto,maynas,belen,isla iquitos cerca,50902
+peru,ucayali,coronel portillo,masisea,lago imiria,250104
+peru,ucayali,coronel portillo,masisea,lago imiria (alto ucayali,250104
+peru,loreto,alto amazonas,lagunas,lago lagunas,140107
 peru,loreto,None,None,lamistococha,
 peru,loreto,None,None,lamistococha-curuaray,
-peru,loreto,maynas,napo,largato cocha,160107.0
+peru,loreto,maynas,napo,largato cocha,160107
 peru,loreto,None,None,lh-04 .,
 peru,loreto,None,None,"lote 67, faena 48, campamento curarary",
 peru,loreto,None,None,lote habana,
-peru,loreto,maynas,napo,machin,160107.0
-peru,madre de dios,tambopata,tambopata,madre de dios,170101.0
-peru,madre de dios,tahuamanu,tahuamanu,madre de dios,170303.0
-peru,loreto,maynas,napo,"maquisapillo, nuevo defensor rio arabela",160107.0
-peru,loreto,maynas,belen,moenacaño,50902.0
+peru,loreto,maynas,napo,machin,160107
+peru,madre de dios,tambopata,tambopata,madre de dios,170101
+peru,madre de dios,tahuamanu,tahuamanu,madre de dios,170303
+peru,loreto,maynas,napo,"maquisapillo, nuevo defensor rio arabela",160107
+peru,loreto,maynas,belen,moenacaño,50902
 peru,loreto,None,None,mundo poza rio napo,
 peru,loreto,None,None,"n4x-au-ya-rc, e17 panda cocha,",
-peru,loreto,loreto,nauta,nauta,160301.0
-peru,loreto,maynas,napo,nuevo defensor,160107.0
-peru,madre de dios,tambopata,tambopata,orilla del tambopata,170101.0
-peru,loreto,maynas,san juan bautista,pampachica,50110.0
-peru,loreto,maynas,torres causana,panda cocha,160110.0
-peru,loreto,maynas,torres causana,pandacocha,160110.0
-peru,loreto,maynas,torres causana,pansa cocha,160110.0
-peru,loreto,maynas,san juan bautista,"pintuyacu, itaya",50110.0
-peru,loreto,loreto,tigre,playa,160303.0
+peru,loreto,loreto,nauta,nauta,160301
+peru,loreto,maynas,napo,nuevo defensor,160107
+peru,madre de dios,tambopata,tambopata,orilla del tambopata,170101
+peru,loreto,maynas,san juan bautista,pampachica,50110
+peru,loreto,maynas,torres causana,panda cocha,160110
+peru,loreto,maynas,torres causana,pandacocha,160110
+peru,loreto,maynas,torres causana,pansa cocha,160110
+peru,loreto,maynas,san juan bautista,"pintuyacu, itaya",50110
+peru,loreto,loreto,tigre,playa,160303
 peru,loreto,None,None,poza aguajal,
 peru,loreto,None,None,preguntara a homero,
 peru,loreto,None,None,puerto arica,
-peru,loreto,maynas,las amazonas,puerto comandancia,160105.0
-peru,loreto,maynas,las amazonas,puerto fujimori,160105.0
+peru,loreto,maynas,las amazonas,puerto comandancia,160105
+peru,loreto,maynas,las amazonas,puerto fujimori,160105
 peru,loreto,maynas,None,puerto fujimori,
 peru,loreto,None,None,puerto fujimori,
-peru,loreto,maynas,las amazonas,puerto nuevo israel,160105.0
-peru,loreto,maynas,las amazonas,puerto santa rosa,160105.0
+peru,loreto,maynas,las amazonas,puerto nuevo israel,160105
+peru,loreto,maynas,las amazonas,puerto santa rosa,160105
 peru,loreto,None,None,"pundacocha/aushiri, yanayacu",
 None,None,None,None,putumayo,
 peru,loreto,None,None,qda bufeo/agua/negra/rio napo,
-peru,loreto,maynas,torres causana,quebarda tacarachi,160110.0
-peru,cusco,la convencion,megantoni,quebrada,80914.0
+peru,loreto,maynas,torres causana,quebarda tacarachi,160110
+peru,cusco,la convencion,megantoni,quebrada,80914
 peru,loreto,None,None,quebrada afluente (aguajal),
 peru,loreto,None,None,quebrada aguajal/estacion 14 lote 39/curaray,
-peru,loreto,maynas,san juan bautista,quebrada allpahuayo,50110.0
+peru,loreto,maynas,san juan bautista,quebrada allpahuayo,50110
 peru,loreto,None,None,quebrada allpahuayo,
-peru,loreto,maynas,torres causana,quebrada bufeo tequera,160110.0
+peru,loreto,maynas,torres causana,quebrada bufeo tequera,160110
 peru,loreto,None,None,quebrada cashano,
 peru,loreto,None,None,quebrada cerca al punto 49 - frente paiche,
-peru,madre de dios,tambopata,tambopata,quebrada chonta,170101.0
-peru,loreto,maynas,torres causana,quebrada chontilla,160110.0
-peru,loreto,maynas,san juan bautista,quebrada corrientillo,50110.0
-peru,loreto,maynas,alto nanay,quebrada curaca,160102.0
+peru,madre de dios,tambopata,tambopata,quebrada chonta,170101
+peru,loreto,maynas,torres causana,quebrada chontilla,160110
+peru,loreto,maynas,san juan bautista,quebrada corrientillo,50110
+peru,loreto,maynas,alto nanay,quebrada curaca,160102
 peru,loreto,None,None,quebrada gravisho,
 peru,loreto,None,None,quebrada lobillo,
 peru,loreto,None,None,quebrada paujil/rio nanay,
 peru,loreto,None,None,quebrada pañayacu - grima pequeña,
 peru,loreto,None,None,quebrada rinayacu,
-peru,loreto,maynas,torres causana,quebrada rinayacu,160110.0
-peru,madre de dios,tambopata,tambopata,quebrada sabalochayac,170101.0
-peru,loreto,loreto,nauta,quebrada safira,160301.0
+peru,loreto,maynas,torres causana,quebrada rinayacu,160110
+peru,madre de dios,tambopata,tambopata,quebrada sabalochayac,170101
+peru,loreto,loreto,nauta,quebrada safira,160301
 peru,loreto,None,None,quebrada san antonio,
-peru,loreto,ucayali,padre marquez,quebrada sierra de contamana,160603.0
-peru,madre de dios,tambopata,tambopata,quebrada sin nombre (sabaloyacu),170101.0
-peru,loreto,maynas,torres causana,quebrada tacarachi,160110.0
-peru,loreto,maynas,torres causana,quebrada tekera /rio napo,160110.0
+peru,loreto,ucayali,padre marquez,quebrada sierra de contamana,160603
+peru,madre de dios,tambopata,tambopata,quebrada sin nombre (sabaloyacu),170101
+peru,loreto,maynas,torres causana,quebrada tacarachi,160110
+peru,loreto,maynas,torres causana,quebrada tekera /rio napo,160110
 peru,loreto,None,None,quebrada tequera,
-peru,loreto,maynas,torres causana,quebrada tequera,160110.0
+peru,loreto,maynas,torres causana,quebrada tequera,160110
 peru,loreto,None,None,quebrada yanayacu,
-peru,loreto,maynas,torres causana,quebrada yanayacu,160110.0
-peru,loreto,maynas,torres causana,quebrada yanayacu /rio aushiri,160110.0
+peru,loreto,maynas,torres causana,quebrada yanayacu,160110
+peru,loreto,maynas,torres causana,quebrada yanayacu /rio aushiri,160110
 peru,loreto,maynas,None,resaca anguilla,
-peru,loreto,maynas,napo,resaca santa victoria,160107.0
-peru,loreto,maynas,belen,rio amazonas,50902.0
-peru,loreto,maynas,belen,rio amazonas/isla iquitos,50902.0
+peru,loreto,maynas,napo,resaca santa victoria,160107
+peru,loreto,maynas,belen,rio amazonas,50902
+peru,loreto,maynas,belen,rio amazonas/isla iquitos,50902
 peru,ayacucho,None,None,rio apurimac (kimbiri),
 peru,ayacucho,la mar,None,rio apurimac (kimbiri),
-peru,loreto,maynas,napo,"rio arabela, orilla playa flor de cooc",160107.0
-peru,loreto,maynas,torres causana,rio aushiri parte altab,160110.0
+peru,loreto,maynas,napo,"rio arabela, orilla playa flor de cooc",160107
+peru,loreto,maynas,torres causana,rio aushiri parte altab,160110
 peru,loreto,None,None,rio ausshiri/quebarda mahuari,
 peru,cajamarca,jaen,None,rio chamaya,
-peru,loreto,loreto,trompeteros,rio correintes,160304.0
-peru,san martin,san martin,juan guerra,rio cumbaza,220908.0
-peru,loreto,maynas,napo,rio curaray,160107.0
-peru,san martin,san martin,juan guerra,rio mayo,220908.0
+peru,loreto,loreto,trompeteros,rio correintes,160304
+peru,san martin,san martin,juan guerra,rio cumbaza,220908
+peru,loreto,maynas,napo,rio curaray,160107
+peru,san martin,san martin,juan guerra,rio mayo,220908
 peru,loreto,None,None,rio nanay,
-peru,loreto,maynas,san juan bautista,rio nanay,50110.0
-peru,loreto,maynas,alto nanay,rio pintuyacu,160102.0
-peru,loreto,loreto,parinari,rio samiria,160302.0
+peru,loreto,maynas,san juan bautista,rio nanay,50110
+peru,loreto,maynas,alto nanay,rio pintuyacu,160102
+peru,loreto,loreto,parinari,rio samiria,160302
 peru,loreto,None,None,rio samiria /1 ra zona tipisca,
 peru,loreto,None,None,rio shimbillo bajo,
-peru,san martin,tocache,tocache,rio tocache,221001.0
-peru,loreto,maynas,torres causana,rio yanayacu,160110.0
-peru,loreto,loreto,tigre,rojas cocha,160303.0
-peru,loreto,loreto,tigre,rojas cocha rio pucacuro,160303.0
-peru,loreto,maynas,san juan bautista,rumocoha,50110.0
+peru,san martin,tocache,tocache,rio tocache,221001
+peru,loreto,maynas,torres causana,rio yanayacu,160110
+peru,loreto,loreto,tigre,rojas cocha,160303
+peru,loreto,loreto,tigre,rojas cocha rio pucacuro,160303
+peru,loreto,maynas,san juan bautista,rumocoha,50110
 peru,loreto,None,None,sacarita,
-peru,ucayali,coronel portillo,masisea,san antonio,250104.0
-peru,ayacucho,la mar,anco,san antonio,50502.0
-peru,ucayali,coronel portillo,masisea,san antonio - alto ucayali,250104.0
-peru,ucayali,coronel portillo,masisea,san antonio alto ucayali,250104.0
-peru,san martin,el dorado,san jose de sisa,san jose de sisa,220301.0
-peru,loreto,loreto,nauta,san pablo de tipishca,160301.0
+peru,ucayali,coronel portillo,masisea,san antonio,250104
+peru,ayacucho,la mar,anco,san antonio,50502
+peru,ucayali,coronel portillo,masisea,san antonio - alto ucayali,250104
+peru,ucayali,coronel portillo,masisea,san antonio alto ucayali,250104
+peru,san martin,el dorado,san jose de sisa,san jose de sisa,220301
+peru,loreto,loreto,nauta,san pablo de tipishca,160301
 peru,loreto,None,None,san pablo de tipishca,
-peru,loreto,loreto,nauta,san pablo de tipishca (rio marañon,160301.0
-peru,loreto,loreto,nauta,san pablo tipishca,160301.0
-peru,loreto,loreto,nauta,san pablo tipishca(rio marañon),160301.0
-peru,loreto,maynas,iquitos,santa clara,160101.0
-peru,loreto,maynas,napo,santa clotilde,160107.0
-peru,loreto,maynas,napo,santa victoria,160107.0
+peru,loreto,loreto,nauta,san pablo de tipishca (rio marañon,160301
+peru,loreto,loreto,nauta,san pablo tipishca,160301
+peru,loreto,loreto,nauta,san pablo tipishca(rio marañon),160301
+peru,loreto,maynas,iquitos,santa clara,160101
+peru,loreto,maynas,napo,santa clotilde,160107
+peru,loreto,maynas,napo,santa victoria,160107
 peru,loreto,None,None,santa victoria resaca,
-peru,loreto,maynas,napo,santa victoria rio napo,160107.0
+peru,loreto,maynas,napo,santa victoria rio napo,160107
 peru,loreto,None,None,santa victoria/rio napo resaca,
-peru,san martin,huallaga,saposoa,saposoa,220401.0
+peru,san martin,huallaga,saposoa,saposoa,220401
 peru,loreto,None,None,shapajal-lamistocoha,
 peru,loreto,None,None,shiriara,
-peru,loreto,maynas,san juan bautista,shiruy caño/rio nanay,50110.0
-peru,loreto,maynas,san juan bautista,shiruycaño,50110.0
-peru,loreto,ucayali,padre marquez,sierra del dividor ucayali,160603.0
-peru,loreto,ucayali,padre marquez,sierra del divisor,160603.0
-peru,loreto,maynas,alto nanay,tipishca,160102.0
+peru,loreto,maynas,san juan bautista,shiruy caño/rio nanay,50110
+peru,loreto,maynas,san juan bautista,shiruycaño,50110
+peru,loreto,ucayali,padre marquez,sierra del dividor ucayali,160603
+peru,loreto,ucayali,padre marquez,sierra del divisor,160603
+peru,loreto,maynas,alto nanay,tipishca,160102
 peru,loreto,None,None,tipishca,
 peru,loreto,None,None,tipishca cuncchi/rio aushiri,
-peru,loreto,maynas,napo,tipishca nashiño,160107.0
-peru,loreto,maynas,torres causana,tipishca tunchi,160110.0
-peru,loreto,loreto,tigre,tipishca virote,160303.0
+peru,loreto,maynas,napo,tipishca nashiño,160107
+peru,loreto,maynas,torres causana,tipishca tunchi,160110
+peru,loreto,loreto,tigre,tipishca virote,160303
 peru,loreto,None,None,tipishca wuitoyacu,
-peru,loreto,loreto,tigre,tres cochas,160303.0
-peru,loreto,loreto,tigre,tres cochas rio pucacuro,160303.0
+peru,loreto,loreto,tigre,tres cochas,160303
+peru,loreto,loreto,tigre,tres cochas rio pucacuro,160303
 peru,loreto,None,None,vieja cocha,
-peru,loreto,maynas,punchana,vieja cocha,160108.0
-peru,loreto,maynas,punchana,vieja cocha rio nanay,160108.0
-peru,loreto,maynas,punchana,viejacocha,160108.0
+peru,loreto,maynas,punchana,vieja cocha,160108
+peru,loreto,maynas,punchana,vieja cocha rio nanay,160108
+peru,loreto,maynas,punchana,viejacocha,160108
 peru,loreto,None,None,wistococha,
-peru,loreto,maynas,iquitos,zona alta de huachana,160101.0
-peru,loreto,maynas,san juan bautista,zona alta del pintuyacu,50110.0
-peru,loreto,maynas,iquitos,zona baja de huachana,160101.0
-peru,loreto,maynas,san juan bautista,zona baja del pintuyacu,50110.0
-peru,loreto,maynas,iquitos,zona media de huachana,160101.0
-peru,loreto,maynas,san juan bautista,zona media del pintuyacu,50110.0
+peru,loreto,maynas,iquitos,zona alta de huachana,160101
+peru,loreto,maynas,san juan bautista,zona alta del pintuyacu,50110
+peru,loreto,maynas,iquitos,zona baja de huachana,160101
+peru,loreto,maynas,san juan bautista,zona baja del pintuyacu,50110
+peru,loreto,maynas,iquitos,zona media de huachana,160101
+peru,loreto,maynas,san juan bautista,zona media del pintuyacu,50110
