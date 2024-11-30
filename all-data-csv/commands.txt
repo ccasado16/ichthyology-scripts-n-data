@@ -1,1 +1,3 @@
 - remove repeated -> clean_repeated.py --csv complete_data.csv => cleaned_complete_data.csv
+
+- get species id -> get_species_id.py ./ids/ids_species_scientific_names.csv ./all-data-csv/cleaned_complete_data.csv Dar_NombreCientifico scientific_name => ided_species_cleaned_complete_data.csv
