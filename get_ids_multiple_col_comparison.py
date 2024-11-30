@@ -45,7 +45,7 @@ def main():
 
     args = parser.parse_args()
 
-    get_ids_multiple(
+    get_ids_multiple_col_comparison(
         pd.read_csv(args.main_csv, na_filter=False),
         args.columns_to_compare_to_ids_csv,
         args.column_to_search_id,
@@ -54,7 +54,7 @@ def main():
     )
 
 
-def get_ids_multiple(
+def get_ids_multiple_col_comparison(
     main_csv: pd.DataFrame,
     columns_to_compare_to_ids_csv: list,
     column_to_search_id: str,
