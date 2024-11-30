@@ -1,3 +1,9 @@
 - remove repeated -> clean_repeated.py --csv complete_data.csv => cleaned_complete_data.csv
 
 - get species id -> get_species_id.py ./ids/ids_species_scientific_names.csv ./all-data-csv/cleaned_complete_data.csv Dar_NombreCientifico scientific_name => ided_species_cleaned_complete_data.csv
+
+- get localities ids (can be same name but different district) -> get_ids_multiple.py --main_csv ./all-data-csv/ided_species
+_cleaned_complete_data.csv --columns_to_compare_to_ids_csv "Distrito"
+"Dar_Localidad" --column_to_search_id "Dar_Localidad" --ids_csv ./ids/
+id_localities+districts.csv --columns_to_compare_to_main_csv "district
+" "localidad" => ided_localidad_ided_species_cleaned_complete_data.csv
