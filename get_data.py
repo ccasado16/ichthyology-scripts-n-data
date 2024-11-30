@@ -88,7 +88,7 @@ def get_data(
             if _normalize(comparison_item) == _normalize(item):
                 data = (
                     j_row[column_to_get_data_from]
-                    if j_row[column_to_get_data_from]
+                    if j_row[column_to_get_data_from] != "None"
                     else value_is_data_empty
                 )
 
