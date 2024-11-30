@@ -7,3 +7,5 @@ _cleaned_complete_data.csv --columns_to_compare_to_ids_csv "Distrito"
 "Dar_Localidad" --column_to_search_id "Dar_Localidad" --ids_csv ./ids/
 id_localities+districts.csv --columns_to_compare_to_main_csv "district
 " "localidad" => ided_localidad_ided_species_cleaned_complete_data.csv
+
+- get fishing gears ids -> get_ids.py ./ids/ids_fishing_gears.csv ./all-data/ided_localidad_ided_species_cleaned_complete_data.csv "Arte de Pesca" name => ided_fishing_gears_ided_localidad_ided_species_cleaned_complete_data.csv
