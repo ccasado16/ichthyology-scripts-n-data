@@ -1,0 +1,1875 @@
+id,name
+10101,Chachapoyas
+10102,Asunción
+10103,Balsas
+10104,Cheto
+10105,Chiliquin
+10106,Chuquibamba
+10107,Granada
+10108,Huancas
+10109,La Jalca
+10110,Leimebamba
+10111,Levanto
+10112,Magdalena
+10113,Mariscal Castilla
+10114,Molinopampa
+10115,Montevideo
+10116,Olleros
+10117,Quinjalca
+10118,San Francisco de Daguas
+10119,San Isidro de Maino
+10120,Soloco
+10121,Sonche
+10201,Bagua
+10202,Aramango
+10203,Copallin
+10204,El Parco
+10205,Imaza
+10206,La Peca
+10301,Jumbilla
+10302,Chisquilla
+10303,Churuja
+10304,Corosha
+10305,Cuispes
+10306,Florida
+10307,Jazan
+10308,Recta
+10309,San Carlos
+10310,Shipasbamba
+10311,Valera
+10312,Yambrasbamba
+10401,Nieva
+10402,El Cenepa
+10403,Río Santiago
+10501,Lamud
+10502,Camporredondo
+10503,Cocabamba
+10504,Colcamar
+10505,Conila
+10506,Inguilpata
+10507,Longuita
+10508,Lonya Chico
+10509,Luya
+10510,Luya Viejo
+10511,María
+10512,Ocalli
+10513,Ocumal
+10514,Pisuquia
+10515,Providencia
+10516,San Cristóbal
+10517,San Francisco de Yeso
+10518,San Jerónimo
+10519,San Juan de Lopecancha
+10520,Santa Catalina
+10521,Santo Tomas
+10522,Tingo
+10523,Trita
+10601,San Nicolás
+10602,Chirimoto
+10603,Cochamal
+10604,Huambo
+10605,Limabamba
+10606,Longar
+10607,Mariscal Benavides
+10608,Milpuc
+10609,Omia
+10610,Santa Rosa
+10611,Totora
+10612,Vista Alegre
+10701,Bagua Grande
+10702,Cajaruro
+10703,Cumba
+10704,El Milagro
+10705,Jamalca
+10706,Lonya Grande
+10707,Yamon
+20101,Huaraz
+20102,Cochabamba
+20103,Colcabamba
+20104,Huanchay
+20105,Independencia
+20106,Jangas
+20107,La Libertad
+20108,Olleros
+20109,Pampas Grande
+20110,Pariacoto
+20111,Pira
+20112,Tarica
+20201,Aija
+20202,Coris
+20203,Huacllan
+20204,La Merced
+20205,Succha
+20301,Llamellin
+20302,Aczo
+20303,Chaccho
+20304,Chingas
+20305,Mirgas
+20306,San Juan de Rontoy
+20401,Chacas
+20402,Acochaca
+20501,Chiquian
+20502,Abelardo Pardo Lezameta
+20503,Antonio Raymondi
+20504,Aquia
+20505,Cajacay
+20506,Canis
+20507,Colquioc
+20508,Huallanca
+20509,Huasta
+20510,Huayllacayan
+20511,La Primavera
+20512,Mangas
+20513,Pacllon
+20514,San Miguel de Corpanqui
+20515,Ticllos
+20601,Carhuaz
+20602,Acopampa
+20603,Amashca
+20604,Anta
+20605,Ataquero
+20606,Marcara
+20607,Pariahuanca
+20608,San Miguel de Aco
+20609,Shilla
+20610,Tinco
+20611,Yungar
+20701,San Luis
+20702,San Nicolás
+20703,Yauya
+20801,Casma
+20802,Buena Vista Alta
+20803,Comandante Noel
+20804,Yautan
+20901,Corongo
+20902,Aco
+20903,Bambas
+20904,Cusca
+20905,La Pampa
+20906,Yanac
+20907,Yupan
+21001,Huari
+21002,Anra
+21003,Cajay
+21004,Chavin de Huantar
+21005,Huacachi
+21006,Huacchis
+21007,Huachis
+21008,Huantar
+21009,Masin
+21010,Paucas
+21011,Ponto
+21012,Rahuapampa
+21013,Rapayan
+21014,San Marcos
+21015,San Pedro de Chana
+21016,Uco
+21101,Huarmey
+21102,Cochapeti
+21103,Culebras
+21104,Huayan
+21105,Malvas
+21201,Caraz
+21202,Huallanca
+21203,Huata
+21204,Huaylas
+21205,Mato
+21206,Pamparomas
+21207,Pueblo Libre
+21208,Santa Cruz
+21209,Santo Toribio
+21210,Yuracmarca
+21301,Piscobamba
+21302,Casca
+21303,Eleazar Guzmán Barron
+21304,Fidel Olivas Escudero
+21305,Llama
+21306,Llumpa
+21307,Lucma
+21308,Musga
+21401,Ocros
+21402,Acas
+21403,Cajamarquilla
+21404,Carhuapampa
+21405,Cochas
+21406,Congas
+21407,Llipa
+21408,San Cristóbal de Rajan
+21409,San Pedro
+21410,Santiago de Chilcas
+21501,Cabana
+21502,Bolognesi
+21503,Conchucos
+21504,Huacaschuque
+21505,Huandoval
+21506,Lacabamba
+21507,Llapo
+21508,Pallasca
+21509,Pampas
+21510,Santa Rosa
+21511,Tauca
+21601,Pomabamba
+21602,Huayllan
+21603,Parobamba
+21604,Quinuabamba
+21701,Recuay
+21702,Catac
+21703,Cotaparaco
+21704,Huayllapampa
+21705,Llacllin
+21706,Marca
+21707,Pampas Chico
+21708,Pararin
+21709,Tapacocha
+21710,Ticapampa
+21801,Chimbote
+21802,Cáceres del Perú
+21803,Coishco
+21804,Macate
+21805,Moro
+21806,Nepeña
+21807,Samanco
+21808,Santa
+21809,Nuevo Chimbote
+21901,Sihuas
+21902,Acobamba
+21903,Alfonso Ugarte
+21904,Cashapampa
+21905,Chingalpo
+21906,Huayllabamba
+21907,Quiches
+21908,Ragash
+21909,San Juan
+21910,Sicsibamba
+22001,Yungay
+22002,Cascapara
+22003,Mancos
+22004,Matacoto
+22005,Quillo
+22006,Ranrahirca
+22007,Shupluy
+22008,Yanama
+30101,Abancay
+30102,Chacoche
+30103,Circa
+30104,Curahuasi
+30105,Huanipaca
+30106,Lambrama
+30107,Pichirhua
+30108,San Pedro de Cachora
+30109,Tamburco
+30201,Andahuaylas
+30202,Andarapa
+30203,Chiara
+30204,Huancarama
+30205,Huancaray
+30206,Huayana
+30207,Kishuara
+30208,Pacobamba
+30209,Pacucha
+30210,Pampachiri
+30211,Pomacocha
+30212,San Antonio de Cachi
+30213,San Jerónimo
+30214,San Miguel de Chaccrampa
+30215,Santa María de Chicmo
+30216,Talavera
+30217,Tumay Huaraca
+30218,Turpo
+30219,Kaquiabamba
+30220,José María Arguedas
+30301,Antabamba
+30302,El Oro
+30303,Huaquirca
+30304,Juan Espinoza Medrano
+30305,Oropesa
+30306,Pachaconas
+30307,Sabaino
+30401,Chalhuanca
+30402,Capaya
+30403,Caraybamba
+30404,Chapimarca
+30405,Colcabamba
+30406,Cotaruse
+30407,Ihuayllo
+30408,Justo Apu Sahuaraura
+30409,Lucre
+30410,Pocohuanca
+30411,San Juan de Chacña
+30412,Sañayca
+30413,Soraya
+30414,Tapairihua
+30415,Tintay
+30416,Toraya
+30417,Yanaca
+30501,Tambobamba
+30502,Cotabambas
+30503,Coyllurqui
+30504,Haquira
+30505,Mara
+30506,Challhuahuacho
+30601,Chincheros
+30602,Anco_Huallo
+30603,Cocharcas
+30604,Huaccana
+30605,Ocobamba
+30606,Ongoy
+30607,Uranmarca
+30608,Ranracancha
+30609,Rocchacc
+30610,El Porvenir
+30611,Los Chankas
+30701,Chuquibambilla
+30702,Curpahuasi
+30703,Gamarra
+30704,Huayllati
+30705,Mamara
+30706,Micaela Bastidas
+30707,Pataypampa
+30708,Progreso
+30709,San Antonio
+30710,Santa Rosa
+30711,Turpay
+30712,Vilcabamba
+30713,Virundo
+30714,Curasco
+40101,Arequipa
+40102,Alto Selva Alegre
+40103,Cayma
+40104,Cerro Colorado
+40105,Characato
+40106,Chiguata
+40107,Jacobo Hunter
+40108,La Joya
+40109,Mariano Melgar
+40110,Miraflores
+40111,Mollebaya
+40112,Paucarpata
+40113,Pocsi
+40114,Polobaya
+40115,Quequeña
+40116,Sabandia
+40117,Sachaca
+40118,San Juan de Siguas
+40119,San Juan de Tarucani
+40120,Santa Isabel de Siguas
+40121,Santa Rita de Siguas
+40122,Socabaya
+40123,Tiabaya
+40124,Uchumayo
+40125,Vitor
+40126,Yanahuara
+40127,Yarabamba
+40128,Yura
+40129,José Luis Bustamante Y Rivero
+40201,Camaná
+40202,José María Quimper
+40203,Mariano Nicolás Valcárcel
+40204,Mariscal Cáceres
+40205,Nicolás de Pierola
+40206,Ocoña
+40207,Quilca
+40208,Samuel Pastor
+40301,Caravelí
+40302,Acarí
+40303,Atico
+40304,Atiquipa
+40305,Bella Unión
+40306,Cahuacho
+40307,Chala
+40308,Chaparra
+40309,Huanuhuanu
+40310,Jaqui
+40311,Lomas
+40312,Quicacha
+40313,Yauca
+40401,Aplao
+40402,Andagua
+40403,Ayo
+40404,Chachas
+40405,Chilcaymarca
+40406,Choco
+40407,Huancarqui
+40408,Machaguay
+40409,Orcopampa
+40410,Pampacolca
+40411,Tipan
+40412,Uñon
+40413,Uraca
+40414,Viraco
+40501,Chivay
+40502,Achoma
+40503,Cabanaconde
+40504,Callalli
+40505,Caylloma
+40506,Coporaque
+40507,Huambo
+40508,Huanca
+40509,Ichupampa
+40510,Lari
+40511,Lluta
+40512,Maca
+40513,Madrigal
+40514,San Antonio de Chuca
+40515,Sibayo
+40516,Tapay
+40517,Tisco
+40518,Tuti
+40519,Yanque
+40520,Majes
+40601,Chuquibamba
+40602,Andaray
+40603,Cayarani
+40604,Chichas
+40605,Iray
+40606,Río Grande
+40607,Salamanca
+40608,Yanaquihua
+40701,Mollendo
+40702,Cocachacra
+40703,Dean Valdivia
+40704,Islay
+40705,Mejia
+40706,Punta de Bombón
+40801,Cotahuasi
+40802,Alca
+40803,Charcana
+40804,Huaynacotas
+40805,Pampamarca
+40806,Puyca
+40807,Quechualla
+40808,Sayla
+40809,Tauria
+40810,Tomepampa
+40811,Toro
+50101,Ayacucho
+50102,Acocro
+50103,Acos Vinchos
+50104,Carmen Alto
+50105,Chiara
+50106,Ocros
+50107,Pacaycasa
+50108,Quinua
+50109,San José de Ticllas
+50110,San Juan Bautista
+50111,Santiago de Pischa
+50112,Socos
+50113,Tambillo
+50114,Vinchos
+50115,Jesús Nazareno
+50116,Andrés Avelino Cáceres Dorregaray
+50201,Cangallo
+50202,Chuschi
+50203,Los Morochucos
+50204,María Parado de Bellido
+50205,Paras
+50206,Totos
+50301,Sancos
+50302,Carapo
+50303,Sacsamarca
+50304,Santiago de Lucanamarca
+50401,Huanta
+50402,Ayahuanco
+50403,Huamanguilla
+50404,Iguain
+50405,Luricocha
+50406,Santillana
+50407,Sivia
+50408,Llochegua
+50409,Canayre
+50410,Uchuraccay
+50411,Pucacolpa
+50412,Chaca
+50501,San Miguel
+50502,Anco
+50503,Ayna
+50504,Chilcas
+50505,Chungui
+50506,Luis Carranza
+50507,Santa Rosa
+50508,Tambo
+50509,Samugari
+50510,Anchihuay
+50511,Oronccoy
+50601,Puquio
+50602,Aucara
+50603,Cabana
+50604,Carmen Salcedo
+50605,Chaviña
+50606,Chipao
+50607,Huac-Huas
+50608,Laramate
+50609,Leoncio Prado
+50610,Llauta
+50611,Lucanas
+50612,Ocaña
+50613,Otoca
+50614,Saisa
+50615,San Cristóbal
+50616,San Juan
+50617,San Pedro
+50618,San Pedro de Palco
+50619,Sancos
+50620,Santa Ana de Huaycahuacho
+50621,Santa Lucia
+50701,Coracora
+50702,Chumpi
+50703,Coronel Castañeda
+50704,Pacapausa
+50705,Pullo
+50706,Puyusca
+50707,San Francisco de Ravacayco
+50708,Upahuacho
+50801,Pausa
+50802,Colta
+50803,Corculla
+50804,Lampa
+50805,Marcabamba
+50806,Oyolo
+50807,Pararca
+50808,San Javier de Alpabamba
+50809,San José de Ushua
+50810,Sara Sara
+50901,Querobamba
+50902,Belén
+50903,Chalcos
+50904,Chilcayoc
+50905,Huacaña
+50906,Morcolla
+50907,Paico
+50908,San Pedro de Larcay
+50909,San Salvador de Quije
+50910,Santiago de Paucaray
+50911,Soras
+51001,Huancapi
+51002,Alcamenca
+51003,Apongo
+51004,Asquipata
+51005,Canaria
+51006,Cayara
+51007,Colca
+51008,Huamanquiquia
+51009,Huancaraylla
+51010,Hualla
+51011,Sarhua
+51012,Vilcanchos
+51101,Vilcas Huaman
+51102,Accomarca
+51103,Carhuanca
+51104,Concepción
+51105,Huambalpa
+51106,Independencia
+51107,Saurama
+51108,Vischongo
+60101,Cajamarca
+60102,Asunción
+60103,Chetilla
+60104,Cospan
+60105,Encañada
+60106,Jesús
+60107,Llacanora
+60108,Los Baños del Inca
+60109,Magdalena
+60110,Matara
+60111,Namora
+60112,San Juan
+60201,Cajabamba
+60202,Cachachi
+60203,Condebamba
+60204,Sitacocha
+60301,Celendín
+60302,Chumuch
+60303,Cortegana
+60304,Huasmin
+60305,Jorge Chávez
+60306,José Gálvez
+60307,Miguel Iglesias
+60308,Oxamarca
+60309,Sorochuco
+60310,Sucre
+60311,Utco
+60312,La Libertad de Pallan
+60401,Chota
+60402,Anguia
+60403,Chadin
+60404,Chiguirip
+60405,Chimban
+60406,Choropampa
+60407,Cochabamba
+60408,Conchan
+60409,Huambos
+60410,Lajas
+60411,Llama
+60412,Miracosta
+60413,Paccha
+60414,Pion
+60415,Querocoto
+60416,San Juan de Licupis
+60417,Tacabamba
+60418,Tocmoche
+60419,Chalamarca
+60501,Contumaza
+60502,Chilete
+60503,Cupisnique
+60504,Guzmango
+60505,San Benito
+60506,Santa Cruz de Toledo
+60507,Tantarica
+60508,Yonan
+60601,Cutervo
+60602,Callayuc
+60603,Choros
+60604,Cujillo
+60605,La Ramada
+60606,Pimpingos
+60607,Querocotillo
+60608,San Andrés de Cutervo
+60609,San Juan de Cutervo
+60610,San Luis de Lucma
+60611,Santa Cruz
+60612,Santo Domingo de la Capilla
+60613,Santo Tomas
+60614,Socota
+60615,Toribio Casanova
+60701,Bambamarca
+60702,Chugur
+60703,Hualgayoc
+60801,Jaén
+60802,Bellavista
+60803,Chontali
+60804,Colasay
+60805,Huabal
+60806,Las Pirias
+60807,Pomahuaca
+60808,Pucara
+60809,Sallique
+60810,San Felipe
+60811,San José del Alto
+60812,Santa Rosa
+60901,San Ignacio
+60902,Chirinos
+60903,Huarango
+60904,La Coipa
+60905,Namballe
+60906,San José de Lourdes
+60907,Tabaconas
+61001,Pedro Gálvez
+61002,Chancay
+61003,Eduardo Villanueva
+61004,Gregorio Pita
+61005,Ichocan
+61006,José Manuel Quiroz
+61007,José Sabogal
+61101,San Miguel
+61102,Bolívar
+61103,Calquis
+61104,Catilluc
+61105,El Prado
+61106,La Florida
+61107,Llapa
+61108,Nanchoc
+61109,Niepos
+61110,San Gregorio
+61111,San Silvestre de Cochan
+61112,Tongod
+61113,Unión Agua Blanca
+61201,San Pablo
+61202,San Bernardino
+61203,San Luis
+61204,Tumbaden
+61301,Santa Cruz
+61302,Andabamba
+61303,Catache
+61304,Chancaybaños
+61305,La Esperanza
+61306,Ninabamba
+61307,Pulan
+61308,Saucepampa
+61309,Sexi
+61310,Uticyacu
+61311,Yauyucan
+70101,Callao
+70102,Bellavista
+70103,Carmen de la Legua Reynoso
+70104,La Perla
+70105,La Punta
+70106,Ventanilla
+70107,Mi Perú
+80101,Cusco
+80102,Ccorca
+80103,Poroy
+80104,San Jerónimo
+80105,San Sebastian
+80106,Santiago
+80107,Saylla
+80108,Wanchaq
+80201,Acomayo
+80202,Acopia
+80203,Acos
+80204,Mosoc Llacta
+80205,Pomacanchi
+80206,Rondocan
+80207,Sangarara
+80301,Anta
+80302,Ancahuasi
+80303,Cachimayo
+80304,Chinchaypujio
+80305,Huarocondo
+80306,Limatambo
+80307,Mollepata
+80308,Pucyura
+80309,Zurite
+80401,Calca
+80402,Coya
+80403,Lamay
+80404,Lares
+80405,Pisac
+80406,San Salvador
+80407,Taray
+80408,Yanatile
+80501,Yanaoca
+80502,Checca
+80503,Kunturkanki
+80504,Langui
+80505,Layo
+80506,Pampamarca
+80507,Quehue
+80508,Tupac Amaru
+80601,Sicuani
+80602,Checacupe
+80603,Combapata
+80604,Marangani
+80605,Pitumarca
+80606,San Pablo
+80607,San Pedro
+80608,Tinta
+80701,Santo Tomas
+80702,Capacmarca
+80703,Chamaca
+80704,Colquemarca
+80705,Livitaca
+80706,Llusco
+80707,Quiñota
+80708,Velille
+80801,Espinar
+80802,Condoroma
+80803,Coporaque
+80804,Ocoruro
+80805,Pallpata
+80806,Pichigua
+80807,Suyckutambo
+80808,Alto Pichigua
+80901,Santa Ana
+80902,Echarate
+80903,Huayopata
+80904,Maranura
+80905,Ocobamba
+80906,Quellouno
+80907,Kimbiri
+80908,Santa Teresa
+80909,Vilcabamba
+80910,Pichari
+80911,Inkawasi
+80912,Villa Virgen
+80913,Villa Kintiarina
+80914,Megantoni
+81001,Paruro
+81002,Accha
+81003,Ccapi
+81004,Colcha
+81005,Huanoquite
+81006,Omachaç
+81007,Paccaritambo
+81008,Pillpinto
+81009,Yaurisque
+81101,Paucartambo
+81102,Caicay
+81103,Challabamba
+81104,Colquepata
+81105,Huancarani
+81106,Kosñipata
+81201,Urcos
+81202,Andahuaylillas
+81203,Camanti
+81204,Ccarhuayo
+81205,Ccatca
+81206,Cusipata
+81207,Huaro
+81208,Lucre
+81209,Marcapata
+81210,Ocongate
+81211,Oropesa
+81212,Quiquijana
+81301,Urubamba
+81302,Chinchero
+81303,Huayllabamba
+81304,Machupicchu
+81305,Maras
+81306,Ollantaytambo
+81307,Yucay
+90101,Huancavelica
+90102,Acobambilla
+90103,Acoria
+90104,Conayca
+90105,Cuenca
+90106,Huachocolpa
+90107,Huayllahuara
+90108,Izcuchaca
+90109,Laria
+90110,Manta
+90111,Mariscal Cáceres
+90112,Moya
+90113,Nuevo Occoro
+90114,Palca
+90115,Pilchaca
+90116,Vilca
+90117,Yauli
+90118,Ascensión
+90119,Huando
+90201,Acobamba
+90202,Andabamba
+90203,Anta
+90204,Caja
+90205,Marcas
+90206,Paucara
+90207,Pomacocha
+90208,Rosario
+90301,Lircay
+90302,Anchonga
+90303,Callanmarca
+90304,Ccochaccasa
+90305,Chincho
+90306,Congalla
+90307,Huanca-Huanca
+90308,Huayllay Grande
+90309,Julcamarca
+90310,San Antonio de Antaparco
+90311,Santo Tomas de Pata
+90312,Secclla
+90401,Castrovirreyna
+90402,Arma
+90403,Aurahua
+90404,Capillas
+90405,Chupamarca
+90406,Cocas
+90407,Huachos
+90408,Huamatambo
+90409,Mollepampa
+90410,San Juan
+90411,Santa Ana
+90412,Tantara
+90413,Ticrapo
+90501,Churcampa
+90502,Anco
+90503,Chinchihuasi
+90504,El Carmen
+90505,La Merced
+90506,Locroja
+90507,Paucarbamba
+90508,San Miguel de Mayocc
+90509,San Pedro de Coris
+90510,Pachamarca
+90511,Cosme
+90601,Huaytara
+90602,Ayavi
+90603,Córdova
+90604,Huayacundo Arma
+90605,Laramarca
+90606,Ocoyo
+90607,Pilpichaca
+90608,Querco
+90609,Quito-Arma
+90610,San Antonio de Cusicancha
+90611,San Francisco de Sangayaico
+90612,San Isidro
+90613,Santiago de Chocorvos
+90614,Santiago de Quirahuara
+90615,Santo Domingo de Capillas
+90616,Tambo
+90701,Pampas
+90702,Acostambo
+90703,Acraquia
+90704,Ahuaycha
+90705,Colcabamba
+90706,Daniel Hernández
+90707,Huachocolpa
+90709,Huaribamba
+90710,Ñahuimpuquio
+90711,Pazos
+90713,Quishuar
+90714,Salcabamba
+90715,Salcahuasi
+90716,San Marcos de Rocchac
+90717,Surcubamba
+90718,Tintay Puncu
+90719,Quichuas
+90720,Andaymarca
+90721,Roble
+90722,Pichos
+90723,Santiago de Tucuma
+100101,Huanuco
+100102,Amarilis
+100103,Chinchao
+100104,Churubamba
+100105,Margos
+100106,Quisqui (Kichki)
+100107,San Francisco de Cayran
+100108,San Pedro de Chaulan
+100109,Santa María del Valle
+100110,Yarumayo
+100111,Pillco Marca
+100112,Yacus
+100113,San Pablo de Pillao
+100201,Ambo
+100202,Cayna
+100203,Colpas
+100204,Conchamarca
+100205,Huacar
+100206,San Francisco
+100207,San Rafael
+100208,Tomay Kichwa
+100301,La Unión
+100307,Chuquis
+100311,Marías
+100313,Pachas
+100316,Quivilla
+100317,Ripan
+100321,Shunqui
+100322,Sillapata
+100323,Yanas
+100401,Huacaybamba
+100402,Canchabamba
+100403,Cochabamba
+100404,Pinra
+100501,Llata
+100502,Arancay
+100503,Chavín de Pariarca
+100504,Jacas Grande
+100505,Jircan
+100506,Miraflores
+100507,Monzón
+100508,Punchao
+100509,Puños
+100510,Singa
+100511,Tantamayo
+100601,Rupa-Rupa
+100602,Daniel Alomía Robles
+100603,Hermílio Valdizan
+100604,José Crespo y Castillo
+100605,Luyando
+100606,Mariano Damaso Beraun
+100607,Pucayacu
+100608,Castillo Grande
+100609,Pueblo Nuevo
+100610,Santo Domingo de Anda
+100701,Huacrachuco
+100702,Cholon
+100703,San Buenaventura
+100704,La Morada
+100705,Santa Rosa de Alto Yanajanca
+100801,Panao
+100802,Chaglla
+100803,Molino
+100804,Umari
+100901,Puerto Inca
+100902,Codo del Pozuzo
+100903,Honoria
+100904,Tournavista
+100905,Yuyapichis
+101001,Jesús
+101002,Baños
+101003,Jivia
+101004,Queropalca
+101005,Rondos
+101006,San Francisco de Asís
+101007,San Miguel de Cauri
+101101,Chavinillo
+101102,Cahuac
+101103,Chacabamba
+101104,Aparicio Pomares
+101105,Jacas Chico
+101106,Obas
+101107,Pampamarca
+101108,Choras
+110101,Ica
+110102,La Tinguiña
+110103,Los Aquijes
+110104,Ocucaje
+110105,Pachacutec
+110106,Parcona
+110107,Pueblo Nuevo
+110108,Salas
+110109,San José de Los Molinos
+110110,San Juan Bautista
+110111,Santiago
+110112,Subtanjalla
+110113,Tate
+110114,Yauca del Rosario
+110201,Chincha Alta
+110202,Alto Laran
+110203,Chavin
+110204,Chincha Baja
+110205,El Carmen
+110206,Grocio Prado
+110207,Pueblo Nuevo
+110208,San Juan de Yanac
+110209,San Pedro de Huacarpana
+110210,Sunampe
+110211,Tambo de Mora
+110301,Nasca
+110302,Changuillo
+110303,El Ingenio
+110304,Marcona
+110305,Vista Alegre
+110401,Palpa
+110402,Llipata
+110403,Río Grande
+110404,Santa Cruz
+110405,Tibillo
+110501,Pisco
+110502,Huancano
+110503,Humay
+110504,Independencia
+110505,Paracas
+110506,San Andrés
+110507,San Clemente
+110508,Tupac Amaru Inca
+120101,Huancayo
+120104,Carhuacallanga
+120105,Chacapampa
+120106,Chicche
+120107,Chilca
+120108,Chongos Alto
+120111,Chupuro
+120112,Colca
+120113,Cullhuas
+120114,El Tambo
+120116,Huacrapuquio
+120117,Hualhuas
+120119,Huancan
+120120,Huasicancha
+120121,Huayucachi
+120122,Ingenio
+120124,Pariahuanca
+120125,Pilcomayo
+120126,Pucara
+120127,Quichuay
+120128,Quilcas
+120129,San Agustín
+120130,San Jerónimo de Tunan
+120132,Saño
+120133,Sapallanga
+120134,Sicaya
+120135,Santo Domingo de Acobamba
+120136,Viques
+120201,Concepción
+120202,Aco
+120203,Andamarca
+120204,Chambara
+120205,Cochas
+120206,Comas
+120207,Heroínas Toledo
+120208,Manzanares
+120209,Mariscal Castilla
+120210,Matahuasi
+120211,Mito
+120212,Nueve de Julio
+120213,Orcotuna
+120214,San José de Quero
+120215,Santa Rosa de Ocopa
+120301,Chanchamayo
+120302,Perene
+120303,Pichanaqui
+120304,San Luis de Shuaro
+120305,San Ramón
+120306,Vitoc
+120401,Jauja
+120402,Acolla
+120403,Apata
+120404,Ataura
+120405,Canchayllo
+120406,Curicaca
+120407,El Mantaro
+120408,Huamali
+120409,Huaripampa
+120410,Huertas
+120411,Janjaillo
+120412,Julcán
+120413,Leonor Ordóñez
+120414,Llocllapampa
+120415,Marco
+120416,Masma
+120417,Masma Chicche
+120418,Molinos
+120419,Monobamba
+120420,Muqui
+120421,Muquiyauyo
+120422,Paca
+120423,Paccha
+120424,Pancan
+120425,Parco
+120426,Pomacancha
+120427,Ricran
+120428,San Lorenzo
+120429,San Pedro de Chunan
+120430,Sausa
+120431,Sincos
+120432,Tunan Marca
+120433,Yauli
+120434,Yauyos
+120501,Junin
+120502,Carhuamayo
+120503,Ondores
+120504,Ulcumayo
+120601,Satipo
+120602,Coviriali
+120603,Llaylla
+120604,Mazamari
+120605,Pampa Hermosa
+120606,Pangoa
+120607,Río Negro
+120608,Río Tambo
+120609,Vizcatan del Ene
+120701,Tarma
+120702,Acobamba
+120703,Huaricolca
+120704,Huasahuasi
+120705,La Unión
+120706,Palca
+120707,Palcamayo
+120708,San Pedro de Cajas
+120709,Tapo
+120801,La Oroya
+120802,Chacapalpa
+120803,Huay-Huay
+120804,Marcapomacocha
+120805,Morococha
+120806,Paccha
+120807,Santa Bárbara de Carhuacayan
+120808,Santa Rosa de Sacco
+120809,Suitucancha
+120810,Yauli
+120901,Chupaca
+120902,Ahuac
+120903,Chongos Bajo
+120904,Huachac
+120905,Huamancaca Chico
+120906,San Juan de Iscos
+120907,San Juan de Jarpa
+120908,Tres de Diciembre
+120909,Yanacancha
+130101,Trujillo
+130102,El Porvenir
+130103,Florencia de Mora
+130104,Huanchaco
+130105,La Esperanza
+130106,Laredo
+130107,Moche
+130108,Poroto
+130109,Salaverry
+130110,Simbal
+130111,Victor Larco Herrera
+130201,Ascope
+130202,Chicama
+130203,Chocope
+130204,Magdalena de Cao
+130205,Paijan
+130206,Rázuri
+130207,Santiago de Cao
+130208,Casa Grande
+130301,Bolívar
+130302,Bambamarca
+130303,Condormarca
+130304,Longotea
+130305,Uchumarca
+130306,Ucuncha
+130401,Chepen
+130402,Pacanga
+130403,Pueblo Nuevo
+130501,Julcan
+130502,Calamarca
+130503,Carabamba
+130504,Huaso
+130601,Otuzco
+130602,Agallpampa
+130604,Charat
+130605,Huaranchal
+130606,La Cuesta
+130608,Mache
+130610,Paranday
+130611,Salpo
+130613,Sinsicap
+130614,Usquil
+130701,San Pedro de Lloc
+130702,Guadalupe
+130703,Jequetepeque
+130704,Pacasmayo
+130705,San José
+130801,Tayabamba
+130802,Buldibuyo
+130803,Chillia
+130804,Huancaspata
+130805,Huaylillas
+130806,Huayo
+130807,Ongon
+130808,Parcoy
+130809,Pataz
+130810,Pias
+130811,Santiago de Challas
+130812,Taurija
+130813,Urpay
+130901,Huamachuco
+130902,Chugay
+130903,Cochorco
+130904,Curgos
+130905,Marcabal
+130906,Sanagoran
+130907,Sarin
+130908,Sartimbamba
+131001,Santiago de Chuco
+131002,Angasmarca
+131003,Cachicadan
+131004,Mollebamba
+131005,Mollepata
+131006,Quiruvilca
+131007,Santa Cruz de Chuca
+131008,Sitabamba
+131101,Cascas
+131102,Lucma
+131103,Marmot
+131104,Sayapullo
+131201,Viru
+131202,Chao
+131203,Guadalupito
+140101,Chiclayo
+140102,Chongoyape
+140103,Eten
+140104,Eten Puerto
+140105,José Leonardo Ortiz
+140106,La Victoria
+140107,Lagunas
+140108,Monsefu
+140109,Nueva Arica
+140110,Oyotun
+140111,Picsi
+140112,Pimentel
+140113,Reque
+140114,Santa Rosa
+140115,Saña
+140116,Cayalti
+140117,Patapo
+140118,Pomalca
+140119,Pucala
+140120,Tuman
+140201,Ferreñafe
+140202,Cañaris
+140203,Incahuasi
+140204,Manuel Antonio Mesones Muro
+140205,Pitipo
+140206,Pueblo Nuevo
+140301,Lambayeque
+140302,Chochope
+140303,Illimo
+140304,Jayanca
+140305,Mochumi
+140306,Morrope
+140307,Motupe
+140308,Olmos
+140309,Pacora
+140310,Salas
+140311,San José
+140312,Tucume
+150101,Lima
+150102,Ancón
+150103,Ate
+150104,Barranco
+150105,Breña
+150106,Carabayllo
+150107,Chaclacayo
+150108,Chorrillos
+150109,Cieneguilla
+150110,Comas
+150111,El Agustino
+150112,Independencia
+150113,Jesús María
+150114,La Molina
+150115,La Victoria
+150116,Lince
+150117,Los Olivos
+150118,Lurigancho
+150119,Lurin
+150120,Magdalena del Mar
+150121,Pueblo Libre
+150122,Miraflores
+150123,Pachacamac
+150124,Pucusana
+150125,Puente Piedra
+150126,Punta Hermosa
+150127,Punta Negra
+150128,Rímac
+150129,San Bartolo
+150130,San Borja
+150131,San Isidro
+150132,San Juan de Lurigancho
+150133,San Juan de Miraflores
+150134,San Luis
+150135,San Martín de Porres
+150136,San Miguel
+150137,Santa Anita
+150138,Santa María del Mar
+150139,Santa Rosa
+150140,Santiago de Surco
+150141,Surquillo
+150142,Villa El Salvador
+150143,Villa María del Triunfo
+150201,Barranca
+150202,Paramonga
+150203,Pativilca
+150204,Supe
+150205,Supe Puerto
+150301,Cajatambo
+150302,Copa
+150303,Gorgor
+150304,Huancapon
+150305,Manas
+150401,Canta
+150402,Arahuay
+150403,Huamantanga
+150404,Huaros
+150405,Lachaqui
+150406,San Buenaventura
+150407,Santa Rosa de Quives
+150501,San Vicente de Cañete
+150502,Asia
+150503,Calango
+150504,Cerro Azul
+150505,Chilca
+150506,Coayllo
+150507,Imperial
+150508,Lunahuana
+150509,Mala
+150510,Nuevo Imperial
+150511,Pacaran
+150512,Quilmana
+150513,San Antonio
+150514,San Luis
+150515,Santa Cruz de Flores
+150516,Zúñiga
+150601,Huaral
+150602,Atavillos Alto
+150603,Atavillos Bajo
+150604,Aucallama
+150605,Chancay
+150606,Ihuari
+150607,Lampian
+150608,Pacaraos
+150609,San Miguel de Acos
+150610,Santa Cruz de Andamarca
+150611,Sumbilca
+150612,Veintisiete de Noviembre
+150701,Matucana
+150702,Antioquia
+150703,Callahuanca
+150704,Carampoma
+150705,Chicla
+150706,Cuenca
+150707,Huachupampa
+150708,Huanza
+150709,Huarochiri
+150710,Lahuaytambo
+150711,Langa
+150712,Laraos
+150713,Mariatana
+150714,Ricardo Palma
+150715,San Andrés de Tupicocha
+150716,San Antonio
+150717,San Bartolomé
+150718,San Damian
+150719,San Juan de Iris
+150720,San Juan de Tantaranche
+150721,San Lorenzo de Quinti
+150722,San Mateo
+150723,San Mateo de Otao
+150724,San Pedro de Casta
+150725,San Pedro de Huancayre
+150726,Sangallaya
+150727,Santa Cruz de Cocachacra
+150728,Santa Eulalia
+150729,Santiago de Anchucaya
+150730,Santiago de Tuna
+150731,Santo Domingo de Los Olleros
+150732,Surco
+150801,Huacho
+150802,Ambar
+150803,Caleta de Carquin
+150804,Checras
+150805,Hualmay
+150806,Huaura
+150807,Leoncio Prado
+150808,Paccho
+150809,Santa Leonor
+150810,Santa María
+150811,Sayan
+150812,Vegueta
+150901,Oyon
+150902,Andajes
+150903,Caujul
+150904,Cochamarca
+150905,Navan
+150906,Pachangara
+151001,Yauyos
+151002,Alis
+151003,Allauca
+151004,Ayaviri
+151005,Azángaro
+151006,Cacra
+151007,Carania
+151008,Catahuasi
+151009,Chocos
+151010,Cochas
+151011,Colonia
+151012,Hongos
+151013,Huampara
+151014,Huancaya
+151015,Huangascar
+151016,Huantan
+151017,Huañec
+151018,Laraos
+151019,Lincha
+151020,Madean
+151021,Miraflores
+151022,Omas
+151023,Putinza
+151024,Quinches
+151025,Quinocay
+151026,San Joaquín
+151027,San Pedro de Pilas
+151028,Tanta
+151029,Tauripampa
+151030,Tomas
+151031,Tupe
+151032,Viñac
+151033,Vitis
+160101,Iquitos
+160102,Alto Nanay
+160103,Fernando Lores
+160104,Indiana
+160105,Las Amazonas
+160106,Mazan
+160107,Napo
+160108,Punchana
+160110,Torres Causana
+160112,Belén
+160113,San Juan Bautista
+160201,Yurimaguas
+160202,Balsapuerto
+160205,Jeberos
+160206,Lagunas
+160210,Santa Cruz
+160211,Teniente Cesar López Rojas
+160301,Nauta
+160302,Parinari
+160303,Tigre
+160304,Trompeteros
+160305,Urarinas
+160401,Ramón Castilla
+160402,Pebas
+160403,Yavari
+160404,San Pablo
+160501,Requena
+160502,Alto Tapiche
+160503,Capelo
+160504,Emilio San Martín
+160505,Maquia
+160506,Puinahua
+160507,Saquena
+160508,Soplin
+160509,Tapiche
+160510,Jenaro Herrera
+160511,Yaquerana
+160601,Contamana
+160602,Inahuaya
+160603,Padre Márquez
+160604,Pampa Hermosa
+160605,Sarayacu
+160606,Vargas Guerra
+160701,Barranca
+160702,Cahuapanas
+160703,Manseriche
+160704,Morona
+160705,Pastaza
+160706,Andoas
+160801,Putumayo
+160802,Rosa Panduro
+160803,Teniente Manuel Clavero
+160804,Yaguas
+170101,Tambopata
+170102,Inambari
+170103,Las Piedras
+170104,Laberinto
+170201,Manu
+170202,Fitzcarrald
+170203,Madre de Dios
+170204,Huepetuhe
+170301,Iñapari
+170302,Iberia
+170303,Tahuamanu
+180101,Moquegua
+180102,Carumas
+180103,Cuchumbaya
+180104,Samegua
+180105,San Cristóbal
+180106,Torata
+180201,Omate
+180202,Chojata
+180203,Coalaque
+180204,Ichuña
+180205,La Capilla
+180206,Lloque
+180207,Matalaque
+180208,Puquina
+180209,Quinistaquillas
+180210,Ubinas
+180211,Yunga
+180301,Ilo
+180302,El Algarrobal
+180303,Pacocha
+190101,Chaupimarca
+190102,Huachon
+190103,Huariaca
+190104,Huayllay
+190105,Ninacaca
+190106,Pallanchacra
+190107,Paucartambo
+190108,San Francisco de Asís de Yarusyacan
+190109,Simon Bolívar
+190110,Ticlacayan
+190111,Tinyahuarco
+190112,Vicco
+190113,Yanacancha
+190201,Yanahuanca
+190202,Chacayan
+190203,Goyllarisquizga
+190204,Paucar
+190205,San Pedro de Pillao
+190206,Santa Ana de Tusi
+190207,Tapuc
+190208,Vilcabamba
+190301,Oxapampa
+190302,Chontabamba
+190303,Huancabamba
+190304,Palcazu
+190305,Pozuzo
+190306,Puerto Bermúdez
+190307,Villa Rica
+190308,Constitución
+200101,Piura
+200104,Castilla
+200105,Catacaos
+200107,Cura Mori
+200108,El Tallan
+200109,La Arena
+200110,La Unión
+200111,Las Lomas
+200114,Tambo Grande
+200115,Veintiseis de Octubre
+200201,Ayabaca
+200202,Frias
+200203,Jilili
+200204,Lagunas
+200205,Montero
+200206,Pacaipampa
+200207,Paimas
+200208,Sapillica
+200209,Sicchez
+200210,Suyo
+200301,Huancabamba
+200302,Canchaque
+200303,El Carmen de la Frontera
+200304,Huarmaca
+200305,Lalaquiz
+200306,San Miguel de El Faique
+200307,Sondor
+200308,Sondorillo
+200401,Chulucanas
+200402,Buenos Aires
+200403,Chalaco
+200404,La Matanza
+200405,Morropon
+200406,Salitral
+200407,San Juan de Bigote
+200408,Santa Catalina de Mossa
+200409,Santo Domingo
+200410,Yamango
+200501,Paita
+200502,Amotape
+200503,Arenal
+200504,Colan
+200505,La Huaca
+200506,Tamarindo
+200507,Vichayal
+200601,Sullana
+200602,Bellavista
+200603,Ignacio Escudero
+200604,Lancones
+200605,Marcavelica
+200606,Miguel Checa
+200607,Querecotillo
+200608,Salitral
+200701,Pariñas
+200702,El Alto
+200703,La Brea
+200704,Lobitos
+200705,Los Organos
+200706,Mancora
+200801,Sechura
+200802,Bellavista de la Unión
+200803,Bernal
+200804,Cristo Nos Valga
+200805,Vice
+200806,Rinconada Llicuar
+210101,Puno
+210102,Acora
+210103,Amantani
+210104,Atuncolla
+210105,Capachica
+210106,Chucuito
+210107,Coata
+210108,Huata
+210109,Mañazo
+210110,Paucarcolla
+210111,Pichacani
+210112,Plateria
+210113,San Antonio
+210114,Tiquillaca
+210115,Vilque
+210201,Azángaro
+210202,Achaya
+210203,Arapa
+210204,Asillo
+210205,Caminaca
+210206,Chupa
+210207,José Domingo Choquehuanca
+210208,Muñani
+210209,Potoni
+210210,Saman
+210211,San Anton
+210212,San José
+210213,San Juan de Salinas
+210214,Santiago de Pupuja
+210215,Tirapata
+210301,Macusani
+210302,Ajoyani
+210303,Ayapata
+210304,Coasa
+210305,Corani
+210306,Crucero
+210307,Ituata
+210308,Ollachea
+210309,San Gaban
+210310,Usicayos
+210401,Juli
+210402,Desaguadero
+210403,Huacullani
+210404,Kelluyo
+210405,Pisacoma
+210406,Pomata
+210407,Zepita
+210501,Ilave
+210502,Capazo
+210503,Pilcuyo
+210504,Santa Rosa
+210505,Conduriri
+210601,Huancane
+210602,Cojata
+210603,Huatasani
+210604,Inchupalla
+210605,Pusi
+210606,Rosaspata
+210607,Taraco
+210608,Vilque Chico
+210701,Lampa
+210702,Cabanilla
+210703,Calapuja
+210704,Nicasio
+210705,Ocuviri
+210706,Palca
+210707,Paratia
+210708,Pucara
+210709,Santa Lucia
+210710,Vilavila
+210801,Ayaviri
+210802,Antauta
+210803,Cupi
+210804,Llalli
+210805,Macari
+210806,Nuñoa
+210807,Orurillo
+210808,Santa Rosa
+210809,Umachiri
+210901,Moho
+210902,Conima
+210903,Huayrapata
+210904,Tilali
+211001,Putina
+211002,Ananea
+211003,Pedro Vilca Apaza
+211004,Quilcapuncu
+211005,Sina
+211101,Juliaca
+211102,Cabana
+211103,Cabanillas
+211104,Caracoto
+211105,San Miguel
+211201,Sandia
+211202,Cuyocuyo
+211203,Limbani
+211204,Patambuco
+211205,Phara
+211206,Quiaca
+211207,San Juan del Oro
+211208,Yanahuaya
+211209,Alto Inambari
+211210,San Pedro de Putina Punco
+211301,Yunguyo
+211302,Anapia
+211303,Copani
+211304,Cuturapi
+211305,Ollaraya
+211306,Tinicachi
+211307,Unicachi
+220101,Moyobamba
+220102,Calzada
+220103,Habana
+220104,Jepelacio
+220105,Soritor
+220106,Yantalo
+220201,Bellavista
+220202,Alto Biavo
+220203,Bajo Biavo
+220204,Huallaga
+220205,San Pablo
+220206,San Rafael
+220301,San José de Sisa
+220302,Agua Blanca
+220303,San Martín
+220304,Santa Rosa
+220305,Shatoja
+220401,Saposoa
+220402,Alto Saposoa
+220403,El Eslabón
+220404,Piscoyacu
+220405,Sacanche
+220406,Tingo de Saposoa
+220501,Lamas
+220502,Alonso de Alvarado
+220503,Barranquita
+220504,Caynarachi
+220505,Cuñumbuqui
+220506,Pinto Recodo
+220507,Rumisapa
+220508,San Roque de Cumbaza
+220509,Shanao
+220510,Tabalosos
+220511,Zapatero
+220601,Juanjuí
+220602,Campanilla
+220603,Huicungo
+220604,Pachiza
+220605,Pajarillo
+220701,Picota
+220702,Buenos Aires
+220703,Caspisapa
+220704,Pilluana
+220705,Pucacaca
+220706,San Cristóbal
+220707,San Hilarión
+220708,Shamboyacu
+220709,Tingo de Ponasa
+220710,Tres Unidos
+220801,Rioja
+220802,Awajun
+220803,Elías Soplin Vargas
+220804,Nueva Cajamarca
+220805,Pardo Miguel
+220806,Posic
+220807,San Fernando
+220808,Yorongos
+220809,Yuracyacu
+220901,Tarapoto
+220902,Alberto Leveau
+220903,Cacatachi
+220904,Chazuta
+220905,Chipurana
+220906,El Porvenir
+220907,Huimbayoc
+220908,Juan Guerra
+220909,La Banda de Shilcayo
+220910,Morales
+220911,Papaplaya
+220912,San Antonio
+220913,Sauce
+220914,Shapaja
+221001,Tocache
+221002,Nuevo Progreso
+221003,Polvora
+221004,Shunte
+221005,Uchiza
+230101,Tacna
+230102,Alto de la Alianza
+230103,Calana
+230104,Ciudad Nueva
+230105,Inclan
+230106,Pachia
+230107,Palca
+230108,Pocollay
+230109,Sama
+230110,Coronel Gregorio Albarracín Lanchipa
+230111,La Yarada los Palos
+230201,Candarave
+230202,Cairani
+230203,Camilaca
+230204,Curibaya
+230205,Huanuara
+230206,Quilahuani
+230301,Locumba
+230302,Ilabaya
+230303,Ite
+230401,Tarata
+230402,Héroes Albarracín
+230403,Estique
+230404,Estique-Pampa
+230405,Sitajara
+230406,Susapaya
+230407,Tarucachi
+230408,Ticaco
+240101,Tumbes
+240102,Corrales
+240103,La Cruz
+240104,Pampas de Hospital
+240105,San Jacinto
+240106,San Juan de la Virgen
+240201,Zorritos
+240202,Casitas
+240203,Canoas de Punta Sal
+240301,Zarumilla
+240302,Aguas Verdes
+240303,Matapalo
+240304,Papayal
+250101,Calleria
+250102,Campoverde
+250103,Iparia
+250104,Masisea
+250105,Yarinacocha
+250106,Nueva Requena
+250107,Manantay
+250201,Raymondi
+250202,Sepahua
+250203,Tahuania
+250204,Yurua
+250301,Padre Abad
+250302,Irazola
+250303,Curimana
+250304,Neshuya
+250305,Alexander Von Humboldt
+250401,Purus
