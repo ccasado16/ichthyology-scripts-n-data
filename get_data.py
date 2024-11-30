@@ -109,7 +109,9 @@ def get_data(
             print("\t[!] No match found")
 
     main_csv.to_csv(
-        f"with_data_{sys.argv[2].split('/')[-1].split('.')[0]}.csv",
+        f"with_data_{column_to_get_data_from}_{
+            sys.argv[2].split('/')[-1].split('.')[0]
+        }.csv",
         index=False,
     )
 
