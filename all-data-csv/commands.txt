@@ -19,3 +19,8 @@ id_localities+districts.csv --columns_to_compare_to_main_csv "district
 mplete_data.csv --column_to_search_id "Dar_IdentificadoPor" --column_t
 o_compare_item nombre => ided_identificadorPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv
 
+
+- get sexes ids -> get_ids.py --ids_csv ./ids/ids_sexes.csv --cleaned_csv ./a
+ll-data-csv/ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided
+_species_cleaned_complete_data.csv --column_to_search_id "Dar_SexoOrga
+nismo" --column_to_compare_item name => ided_Sexo_ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv
