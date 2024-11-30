@@ -1,0 +1,278 @@
+id,localidad,district
+1,(comunidad buen suceso),torres causana
+2,-,None
+3,28 de julio,tigre
+4,Unknown locality,iquitos
+5,Unknown locality,yavari
+6,Unknown locality,alto nanay
+7,Unknown locality,belen
+8,Unknown locality,nauta
+9,Unknown locality,fernando lores
+10,Unknown locality,las amazonas
+11,Unknown locality,napo
+12,Unknown locality,None
+13,Unknown locality,megantoni
+14,Unknown locality,None
+15,Unknown locality,punchana
+16,Unknown locality,None
+17,Unknown locality,masisea
+18,Unknown locality,tahuamanu
+19,Unknown locality,None
+20,Unknown locality,puinahua
+21,Unknown locality,None
+22,Unknown locality,None
+23,Unknown locality,torres causana
+24,Unknown locality,tigre
+25,Unknown locality,parinari
+26,allpahuayo,None
+27,allpahuayo,san juan bautista
+28,alto ucayali,masisea
+29,aranda cocha,torres causana
+30,atun cocha,parinari
+31,base arica,None
+32,base arica - repsol,napo
+33,bufeo quebrada,None
+34,campamento panguana,napo
+35,campo serio,torres causana
+36,camu camu cocha,None
+37,camunidad campo serio,None
+38,canal puinahua,puinahua
+39,canta gallo,belen
+40,caserio cuchara/rio corrientes,trompeteros
+41,caserio infierno,None
+42,caserio infierno rio tambopata,None
+43,caserio providencia,trompeteros
+44,caño,None
+45,caño anuncho,torres causana
+46,caño anuncho/yanayacu pucate,torres causana
+47,caño garza,torres causana
+48,caño santo tomas,san juan bautista
+49,caño ungurahui,None
+50,caño yarina,puinahua
+51,chanajao,calleria
+52,chanajao,None
+53,chanajao (alto ucayali ),calleria
+54,chanajao cerca al imiria,calleria
+55,chanarrao,calleria
+56,chorococha,torres causana
+57,cocha,alto nanay
+58,cocha,None
+59,cocha aguajal,None
+60,cocha aleman,napo
+61,cocha aleman-urbina,napo
+62,cocha bagazan,None
+63,cocha desesperado,tigre
+64,"cocha garza, bellavista",None
+65,cocha leon,None
+66,cocha maquisapillo,napo
+67,cocha maquisapillo rio arabela,napo
+68,cocha mauca,nauta
+69,cocha mauca (rio yanayacu-pucate),nauta
+70,cocha mayouruna,None
+71,cocha mayouruna,las amazonas
+72,cocha mundo poza - santa victoria,None
+73,cocha negra(yana yacu),None
+74,cocha panguana rio arabela,napo
+75,cocha priguisa,yavari
+76,cocha sahua,None
+77,cocha shinguito,None
+78,cocha siruy/san pedro /rio nanay,None
+79,cocha tarapoto,iquitos
+80,cocha telebid curaray lote 67,None
+81,cocha yuto,san juan bautista
+82,"com. nuevo defensor, orilla",napo
+83,comunidad,napo
+84,comunidad 28 de julio,tigre
+85,comunidad bagazan,jenaro herrera
+86,comunidad buen suceso,torres causana
+87,comunidad buen suceso - chorococha,None
+88,comunidad buen suceso - cocha arahuana,None
+89,comunidad buen suceso - panda cocha,None
+90,comunidad buen suceso - tipishca tunchi,None
+91,comunidad campo serio,torres causana
+92,"comunidad campo serio, rio aushi, napo",torres causana
+93,comunidad carocurahayte,nauta
+94,comunidad concordia,None
+95,comunidad de muyuy,las amazonas
+96,comunidad de oroza,las amazonas
+97,comunidad de padre isla,belen
+98,comunidad de urvina,napo
+99,comunidad de yanayacu,puinahua
+100,"comunidad defensor, mundo poza",napo
+101,comunidad del aguajal,fernando lores
+102,comunidad el salvador,mazan
+103,comunidad flor de coco,None
+104,comunidad flor de coco,napo
+105,comunidad flor de coco - cocha maquisapa,None
+106,comunidad flor de coco - cocha negra,None
+107,comunidad german,None
+108,comunidad german,torres causana
+109,comunidad german (rio yanayacu),None
+110,comunidad mazan,mazan
+111,comunidad nueva union,inambari
+112,comunidad nueva vida,megantoni
+113,comunidad nuevo defensor,napo
+114,comunidad nuevo defensor - cocha mundo poza,None
+115,comunidad nuevo defensor - quebrada gravisho,None
+116,comunidad santa rosa,yavari
+117,comunidad santa teresa,indiana
+118,comunidad santa victoria,napo
+119,comunidad shapajal,napo
+120,comunidad shapajal - lamistococha,None
+121,comunidad urbina,None
+122,comunidad urbina,napo
+123,comunidad urbina - cocha aleman,None
+124,comunidad yuto,san juan bautista
+125,despensa,tigre
+126,flor de coco/cocha maquisapillo,None
+127,flor de coco/cocha maquisapillo,napo
+128,frente dorado/quebrada 3 norte,None
+129,frente paiche,None
+130,frente piraña,None
+131,frente piraña/quebrada gergon,None
+132,genaro herrera,None
+133,hi-3,None
+134,huarmi isla,nauta
+135,isal santa victoria,napo
+136,isla 4 bocas,napo
+137,isla cuatro bocas,napo
+138,isla iquitos,belen
+139,isla iquitos /rio amazonas,belen
+140,isla iquitos cerca,belen
+141,lago imiria,masisea
+142,lago imiria (alto ucayali,masisea
+143,lago lagunas,lagunas
+144,lamistococha,None
+145,lamistococha-curuaray,None
+146,largato cocha,napo
+147,lh-04 .,None
+148,"lote 67, faena 48, campamento curarary",None
+149,lote habana,None
+150,machin,napo
+151,madre de dios,tambopata
+152,madre de dios,tahuamanu
+153,"maquisapillo, nuevo defensor rio arabela",napo
+154,moenacaño,belen
+155,mundo poza rio napo,None
+156,"n4x-au-ya-rc, e17 panda cocha,",None
+157,nauta,nauta
+158,nuevo defensor,napo
+159,orilla del tambopata,tambopata
+160,pampachica,san juan bautista
+161,panda cocha,torres causana
+162,pandacocha,torres causana
+163,pansa cocha,torres causana
+164,"pintuyacu, itaya",san juan bautista
+165,playa,tigre
+166,poza aguajal,None
+167,preguntara a homero,None
+168,puerto arica,None
+169,puerto comandancia,las amazonas
+170,puerto fujimori,las amazonas
+171,puerto fujimori,None
+172,puerto fujimori,None
+173,puerto nuevo israel,las amazonas
+174,puerto santa rosa,las amazonas
+175,"pundacocha/aushiri, yanayacu",None
+176,putumayo,None
+177,qda bufeo/agua/negra/rio napo,None
+178,quebarda tacarachi,torres causana
+179,quebrada,megantoni
+180,quebrada afluente (aguajal),None
+181,quebrada aguajal/estacion 14 lote 39/curaray,None
+182,quebrada allpahuayo,san juan bautista
+183,quebrada allpahuayo,None
+184,quebrada bufeo tequera,torres causana
+185,quebrada cashano,None
+186,quebrada cerca al punto 49 - frente paiche,None
+187,quebrada chonta,tambopata
+188,quebrada chontilla,torres causana
+189,quebrada corrientillo,san juan bautista
+190,quebrada curaca,alto nanay
+191,quebrada gravisho,None
+192,quebrada lobillo,None
+193,quebrada paujil/rio nanay,None
+194,quebrada pañayacu - grima pequeña,None
+195,quebrada rinayacu,None
+196,quebrada rinayacu,torres causana
+197,quebrada sabalochayac,tambopata
+198,quebrada safira,nauta
+199,quebrada san antonio,None
+200,quebrada sierra de contamana,padre marquez
+201,quebrada sin nombre (sabaloyacu),tambopata
+202,quebrada tacarachi,torres causana
+203,quebrada tekera /rio napo,torres causana
+204,quebrada tequera,None
+205,quebrada tequera,torres causana
+206,quebrada yanayacu,None
+207,quebrada yanayacu,torres causana
+208,quebrada yanayacu /rio aushiri,torres causana
+209,resaca anguilla,None
+210,resaca santa victoria,napo
+211,rio amazonas,belen
+212,rio amazonas/isla iquitos,belen
+213,rio apurimac (kimbiri),None
+214,rio apurimac (kimbiri),None
+215,"rio arabela, orilla playa flor de cooc",napo
+216,rio aushiri parte altab,torres causana
+217,rio ausshiri/quebarda mahuari,None
+218,rio chamaya,None
+219,rio correintes,trompeteros
+220,rio cumbaza,juan guerra
+221,rio curaray,napo
+222,rio mayo,juan guerra
+223,rio nanay,None
+224,rio nanay,san juan bautista
+225,rio pintuyacu,alto nanay
+226,rio samiria,parinari
+227,rio samiria /1 ra zona tipisca,None
+228,rio shimbillo bajo,None
+229,rio tocache,tocache
+230,rio yanayacu,torres causana
+231,rojas cocha,tigre
+232,rojas cocha rio pucacuro,tigre
+233,rumocoha,san juan bautista
+234,sacarita,None
+235,san antonio,masisea
+236,san antonio,anco
+237,san antonio - alto ucayali,masisea
+238,san antonio alto ucayali,masisea
+239,san jose de sisa,san jose de sisa
+240,san pablo de tipishca,nauta
+241,san pablo de tipishca,None
+242,san pablo de tipishca (rio marañon,nauta
+243,san pablo tipishca,nauta
+244,san pablo tipishca(rio marañon),nauta
+245,santa clara,iquitos
+246,santa clotilde,napo
+247,santa victoria,napo
+248,santa victoria resaca,None
+249,santa victoria rio napo,napo
+250,santa victoria/rio napo resaca,None
+251,saposoa,saposoa
+252,shapajal-lamistocoha,None
+253,shiriara,None
+254,shiruy caño/rio nanay,san juan bautista
+255,shiruycaño,san juan bautista
+256,sierra del dividor ucayali,padre marquez
+257,sierra del divisor,padre marquez
+258,tipishca,alto nanay
+259,tipishca,None
+260,tipishca cuncchi/rio aushiri,None
+261,tipishca nashiño,napo
+262,tipishca tunchi,torres causana
+263,tipishca virote,tigre
+264,tipishca wuitoyacu,None
+265,tres cochas,tigre
+266,tres cochas rio pucacuro,tigre
+267,vieja cocha,None
+268,vieja cocha,punchana
+269,vieja cocha rio nanay,punchana
+270,viejacocha,punchana
+271,wistococha,None
+272,zona alta de huachana,iquitos
+273,zona alta del pintuyacu,san juan bautista
+274,zona baja de huachana,iquitos
+275,zona baja del pintuyacu,san juan bautista
+276,zona media de huachana,iquitos
+277,zona media del pintuyacu,san juan bautista
