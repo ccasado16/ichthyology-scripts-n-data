@@ -9,3 +9,8 @@ id_localities+districts.csv --columns_to_compare_to_main_csv "district
 " "localidad" => ided_localidad_ided_species_cleaned_complete_data.csv
 
 - get fishing gears ids -> get_ids.py ./ids/ids_fishing_gears.csv ./all-data/ided_localidad_ided_species_cleaned_complete_data.csv "Arte de Pesca" name => ided_fishing_gears_ided_localidad_ided_species_cleaned_complete_data.csv
+
+- get identifier ids -> get_ids.py --ids_csv ./ids/ids_persons.csv --cleaned_csv .
+/all-data-csv/ided_fishing_gear_ided_localidad_ided_species_cleaned_co
+mplete_data.csv --column_to_search_id "Dar_IdentificadoPor" --column_t
+o_compare_item nombre => ided_identificadorPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv
