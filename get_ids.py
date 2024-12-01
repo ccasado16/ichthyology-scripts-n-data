@@ -1,6 +1,7 @@
 import sys
 import pandas as pd
 from _normalize import _normalize
+from _switch_habitats import _switch_habitats
 import argparse
 
 
@@ -73,6 +74,9 @@ def get_ids(
                 item = variant_replaces[item]
             else:
                 print(f"\t[!] No replacements for {item}")
+
+        # for habitats
+        item = _switch_habitats(item)
 
         # traverse the ids csv and compare the item with the column_to_compare_item
         # if they are the same, take the id and save it in the cleaned csv
