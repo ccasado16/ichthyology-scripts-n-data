@@ -4,7 +4,9 @@ def _split(row):
         .replace("&", " , ")
         .replace("/", " , ")
         .replace("-", " , ")
+        .replace(" - ", " , ")
         # .replace(",", " , ") # for Usage or Usos table
+        .replace(", ", " , ")
         .split(" , ")
     )
     splitted = [x.strip() for x in splitted]
