@@ -33,3 +33,6 @@ nismo" --column_to_compare_item name => ided_Sexo_ided_IdentificadoPor_ided_fish
 
 
 - get river basins ids -> get_id_multiple_items.py --main_csv ./all-data-csv/multiple-ided_Uso_multiple-ided_Dar_Colector_ided_Sexo_ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv --column_to_compare_to_ids_csv "Cuenca" --ids_csv ./ids/ids_river_basins.csv --column_to_compare_to_main_csv name --variant_replaces "amazonas:rio amazonas-napo:rio napo-curaray:rio curaray-urubamba:rio urubamba-yanayacu:rio yanayacu-Estación 08 curaray:estacion 08, rio curaray-sub cuenca pucacuro:sub cuenca rio pucacuro" => multiple-ided_Cuenca_multiple-ided_Uso_multiple-ided_Dar_Colector_ided_Sexo_ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv
+
+
+- get habitats ids -> get_ids.py --ids_csv ./ids/ids_habitats.csv --cleaned_csv ./all-data-csv/multiple-ided_Cuenca_multiple-ided_Uso_multiple-ided_Dar_Colector_ided_Sexo_ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv --column_to_search_id "Habitat" --column_to_compare_item name => ided_Habitat_multiple-ided_Cuenca_multiple-ided_Uso_multiple-ided_Dar_Colector_ided_Sexo_ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv
