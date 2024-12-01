@@ -24,3 +24,6 @@ o_compare_item nombre => ided_identificadorPor_ided_fishing_gear_ided_localidad_
 ll-data-csv/ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided
 _species_cleaned_complete_data.csv --column_to_search_id "Dar_SexoOrga
 nismo" --column_to_compare_item name => ided_Sexo_ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv
+
+
+- get colectors ids -> get_id_multiple_items.py --main_csv ./all-data-csv/ided_Sexo_ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv --column_to_compare_to_ids_csv "Dar_Colector" --ids_csv ./ids/ids_persons.csv --column_to_compare_to_main_csv "nombre" --variant_replaces "morgan ruiz:morgan ruiz tafur-jazmin ruiz:jazmin ruiz ramos-homero sanchez:homero sánchez riveiro-leite, r.b:r.b leite-i.sipion:i. sipion-nuan ruiz:juan ruiz" => multiple-ided_DarColector_ided_Sexo_ided_IdentificadoPor_ided_fishing_gear_ided_localidad_ided_species_cleaned_complete_data.csv
